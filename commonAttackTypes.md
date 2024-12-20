@@ -74,15 +74,20 @@ Urgency: Pushes victims to act quickly without due consideration.
 
 </ol>
 <h1>Effects of Cyber Attacks</h1>
-<p> Cyberattacks can have far-reaching consequences for individuals and organizations, including:
+<p> I am sure you will agree with me that Cyberattacks can have far-reaching consequences for individuals and organizations,some of which  include:
 
-Financial Loss: Theft of funds, ransom payments, or recovery costs.
+<ol type="i">
 
-Data Breaches: Exposure of sensitive personal or corporate data.
+<li> Financial Loss:</li> Theft of funds, ransom payments, or recovery costs.
 
-Operational Disruption: Downtime due to compromised systems.
+<li>Data Breaches: </li> Exposure of sensitive personal or corporate data.
 
-Reputational Damage: Loss of customer trust and brand credibility.
+<li>Operational Disruption: </li> Downtime due to compromised systems.
 
-Legal Consequences: Non-compliance with data protection laws leading to fines.</p>
+<li> Reputational Damage: </li> Loss of customer trust and brand credibility.
+
+<li>Legal Consequences: </li> Non-compliance with data protection laws leading to fines. 
+</ol>
+
+</p>
 </p>
