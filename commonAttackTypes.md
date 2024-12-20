@@ -11,15 +11,16 @@ Below is an overview of some of the most prevalent attack types in the cybersecu
 
 <h2> Common Types of Phishing Attacks: </h2>
 
-Business Email Compromise (BEC): Impersonates a known source to request sensitive information, often leading to financial fraud.
+<ol type="i"> 
+<li>Business Email Compromise (BEC):</li> Impersonates a known source to request sensitive information, often leading to financial fraud.
 
-Spear Phishing: Targets specific individuals or groups with emails that appear to come from trusted sources.
+<li>Spear Phishing:</li>  Targets specific individuals or groups with emails that appear to come from trusted sources.
 
-Whaling: Focuses on high-level executives, aiming to gain access to sensitive data or systems.
+<li>Whaling:</li>  Focuses on high-level executives, aiming to gain access to sensitive data or systems.
 
-Vishing: Exploits voice communications to extract confidential information or impersonate trusted sources.
+<li>Vishing:</li>  Exploits voice communications to extract confidential information or impersonate trusted sources.
 
-Smishing: Uses deceptive text messages to steal data or impersonate known contacts.
+<li>Smishing:</li>  Uses deceptive text messages to steal data or impersonate known contacts.
 
 <h2>Effects:</h2>
 <p>Credential theft, unauthorized access, financial fraud, and data breaches.</p>
@@ -28,14 +29,16 @@ Smishing: Uses deceptive text messages to steal data or impersonate known contac
 <p>Malware is malicious software designed to harm devices, steal data, or disrupt operations. It often leads to significant financial and operational damage.
 
 <h2>Common Types of Malware:</h2>
+<ol type="i">
 
-Viruses: Infect systems via malicious files or attachments, damaging or corrupting data.
+<li> Viruses:</li> Infect systems via malicious files or attachments, damaging or corrupting data.
 
-Worms: Self-replicating malware that spreads across networks, disrupting operations.
+<li>Worms:</li> Self-replicating malware that spreads across networks, disrupting operations.
 
-Ransomware: Encrypts data and demands payment for its release, causing financial and reputational harm.
+<li>Ransomware:</li> Encrypts data and demands payment for its release, causing financial and reputational harm.
 
-Spyware: Secretly gathers data, such as emails and location details, for exploitation.
+<li>Spyware:</li> Secretly gathers data, such as emails and location details, for exploitation.
+</ol>
 
 Effects: System damage, data theft, operational disruptions, financial losses, and compromised privacy. </p>
 
@@ -44,7 +47,7 @@ Effects: System damage, data theft, operational disruptions, financial losses, a
 
 <h2>Common Social Engineering Tactics:</h2>
 
-<ol type="a">
+<ol type="i">
 
 <li>Social Media Phishing:</li> Collects detailed information from social media to initiate targeted attacks.
 
@@ -57,7 +60,7 @@ Effects: System damage, data theft, operational disruptions, financial losses, a
 </ol>
 
 <h2> Social Engineering Principles: </h2>
-<ol type="a">
+<ol type="i">
 
 <li>Authority:</li> Exploits respect for authority figures.
 
@@ -83,7 +86,7 @@ Effects: System damage, data theft, operational disruptions, financial losses, a
 <h1>Effects of Cyber Attacks</h1>
 <p> I am sure you will agree with me that Cyberattacks can have far-reaching consequences for individuals and organizations,some of which  include:
 
-<ol type="a">
+<ol type="i">
 
 <li> Financial Loss:</li> Theft of funds, ransom payments, or recovery costs.
 
