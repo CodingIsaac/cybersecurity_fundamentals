@@ -21,6 +21,7 @@ Below is an overview of some of the most prevalent attack types in the cybersecu
 <li>Vishing:</li>  Exploits voice communications to extract confidential information or impersonate trusted sources.
 
 <li>Smishing:</li>  Uses deceptive text messages to steal data or impersonate known contacts.
+</ol>
 
 <h2>Effects:</h2>
 <p>Credential theft, unauthorized access, financial fraud, and data breaches.</p>
