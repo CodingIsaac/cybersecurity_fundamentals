@@ -1,5 +1,5 @@
 <h1>
-Common Cybersecurity Attack Types and Their Effects
+Common Cyber Attack Types and Their Effects on Businesses
 </h1>
 <p> 
 Let me start by asking, are you unknowingly leaving the door wide open for cybercriminals to raid your business, steal your money, and ruin your reputation? Most businesses always has the camoflage of security, but the truth is hackers are counting on that false sense of security. So, understanding the common types of cyberattacks and their effects is crucial for identifying and mitigating threats. 
