@@ -101,4 +101,7 @@ Physical Social Engineering: Uses impersonation to gain unauthorized physical ac
 </ol>
 
 </p>
+In Conclusion, Take Action Before It's Too Late:
+Cybercriminals are relentless, and their tactics evolve faster than most defenses can keep up. One of the worst attacks to ever happen to an organization is a ZERO-DAY Attack, but attack patterns can be learnt and it effects curtailed. While waiting until you are a victim is not an option. Always Remember that hope is not a strategy. The time to act is NOW. Implementing the right measures, training your employees, and staying one step ahead will save you from costly breaches, legal battles, and the trust-eroding consequences of a cyberattack.
+
 </p>
