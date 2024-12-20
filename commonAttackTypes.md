@@ -6,7 +6,7 @@ Let me start by asking, are you unknowingly leaving the door wide open for cyber
 Below is an overview of some of the most prevalent attack types in the cybersecurity landscape:
 
 <ol type="a"> 
-<li>Phishing</li>
+<li><h2>Phishing</h2></li>
 <p> Phishing involves the use of deceptive digital communications to trick individuals into revealing sensitive information or deploying malicious software. Its effects range from stolen credentials to financial loss and data breaches.
 
 <h2> Common Types of Phishing Attacks: </h2>
@@ -26,7 +26,7 @@ Smishing:  Uses deceptive text messages to steal data or impersonate known conta
 <h2>Effects:</h2>
 <p>Credential theft, unauthorized access, financial fraud, and data breaches.</p>
 
-<li> Malware </li>
+<li><h2> Malware </h2> </li>
 <p>Malware is malicious software designed to harm devices, steal data, or disrupt operations. It often leads to significant financial and operational damage.
 
 <h2>Common Types of Malware:</h2>
@@ -41,14 +41,12 @@ Ransomware: Encrypts data and demands payment for its release, causing financial
 Spyware: Secretly gathers data, such as emails and location details, for exploitation.
 
 
-Effects: System damage, data theft, operational disruptions, financial losses, and compromised privacy. </p>
+<h2>Effects:</h2> System damage, data theft, operational disruptions, financial losses, and compromised privacy. </p>
 
-<li> Social Engineering </li>
+<li> <h2>Social Engineering</h2> </li>
 <p> Social engineering manipulates human behavior to extract confidential information, often exploiting trust and psychological tendencies.
 
 <h2>Common Social Engineering Tactics:</h2>
-
-
 
 Social Media Phishing: Collects detailed information from social media to initiate targeted attacks.
 
@@ -61,29 +59,25 @@ Physical Social Engineering: Uses impersonation to gain unauthorized physical ac
 
 
 <h2> Social Engineering Principles: </h2>
-<ol type="i">
 
-<li>Authority:</li> Exploits respect for authority figures.
+Authority: Exploits respect for authority figures.
 
-<li>Intimidation:</li> Uses threats and pressure to compel action.
+Intimidation: Uses threats and pressure to compel action.
 
-<li>Consensus:</li> Leverages perceived social proof to gain trust.
+Consensus: Leverages perceived social proof to gain trust.
 
-<li>Scarcity:</li> Creates urgency by implying limited availability.
+Scarcity: Creates urgency by implying limited availability.
 
-<li>Familiarity:</li> Develops a false emotional connection for exploitation.
+Familiarity: Develops a false emotional connection for exploitation.
 
-<li>Trust:</li> Builds relationships to extract personal information.
+Trust: Builds relationships to extract personal information.
 
-<li>Urgency:</li> Pushes victims to act quickly without due consideration.
+Urgency: Pushes victims to act quickly without due consideration.
 
-</ol>
+
 
 <h2>Effects:</h2> Unauthorized access, data theft, financial fraud, and operational breaches.</p>
 
-
-
-</ol>
 <h1>Effects of Cyber Attacks</h1>
 <p> I am sure you will agree with me that Cyberattacks can have far-reaching consequences for individuals and organizations,some of which  include:
 
@@ -101,7 +95,7 @@ Physical Social Engineering: Uses impersonation to gain unauthorized physical ac
 </ol>
 
 </p>
-In Conclusion, Take Action Before It's Too Late:
+In Conclusion, take proper actions before it is too late:
 Cybercriminals are relentless, and their tactics evolve faster than most defenses can keep up. One of the worst attacks to ever happen to an organization is a ZERO-DAY Attack, but attack patterns can be learnt and it effects curtailed. While waiting until you are a victim is not an option. Always Remember that hope is not a strategy. The time to act is NOW. Implementing the right measures, training your employees, and staying one step ahead will save you from costly breaches, legal battles, and the trust-eroding consequences of a cyberattack.
 
 </p>
