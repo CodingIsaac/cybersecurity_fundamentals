@@ -39,5 +39,50 @@ Spyware: Secretly gathers data, such as emails and location details, for exploit
 
 Effects: System damage, data theft, operational disruptions, financial losses, and compromised privacy. </p>
 
+<li> Social Engineering </li>
+<p> Social engineering manipulates human behavior to extract confidential information, often exploiting trust and psychological tendencies.
+
+<h2>Common Social Engineering Tactics:</h2>
+
+Social Media Phishing: Collects detailed information from social media to initiate targeted attacks.
+
+Watering Hole Attack: Infects websites frequently visited by specific groups, compromising their users.
+
+USB Baiting: Places infected USB devices to trick employees into compromising their network.
+
+Physical Social Engineering: Uses impersonation to gain unauthorized physical access to sensitive locations.
+
+<h2> Social Engineering Principles: </h2>
+
+Authority: Exploits respect for authority figures.
+
+Intimidation: Uses threats and pressure to compel action.
+
+Consensus: Leverages perceived social proof to gain trust.
+
+Scarcity: Creates urgency by implying limited availability.
+
+Familiarity: Develops a false emotional connection for exploitation.
+
+Trust: Builds relationships to extract personal information.
+
+Urgency: Pushes victims to act quickly without due consideration.
+
+<h2>Effects:</h2> Unauthorized access, data theft, financial fraud, and operational breaches.</p>
+
+
+
 </ol>
+<h1>Effects of Cyber Attacks</h1>
+<p> Cyberattacks can have far-reaching consequences for individuals and organizations, including:
+
+Financial Loss: Theft of funds, ransom payments, or recovery costs.
+
+Data Breaches: Exposure of sensitive personal or corporate data.
+
+Operational Disruption: Downtime due to compromised systems.
+
+Reputational Damage: Loss of customer trust and brand credibility.
+
+Legal Consequences: Non-compliance with data protection laws leading to fines.</p>
 </p>
