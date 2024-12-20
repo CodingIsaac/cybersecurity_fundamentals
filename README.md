@@ -1,12 +1,19 @@
 <h1>Professional Statement</h1>
 
-# I am a dedicated and detail-oriented cybersecurity professional with a strong interest in Asset Security, Security Operations, and Identity and Access Management (IAM). My goal is to safeguard businesses and individuals from cyber threats while ensuring compliance with regulatory standards and upholding the principles of law.
+<p> I am a detail-oriented cybersecurity professional interested in Asset Security, Security Operations, and Identity and Access Management (IAM). Building on my passion, my goal is to safeguard businesses - ensuring compliance with Data Privacy regulations and upholding organizational policies and the lae and to safeguard individuals personal identifiable information and sensitive personal indentifiable information from cyber attacks. </p>
 
 
-# With a background in Blockchain, Fintech, and corporate compliance, I bring a unique perspective to cybersecurity by combining my expertise in governance, risk management, and legal analysis with a passion for protecting organizations from evolving cyber threats. I specialize in identifying and mitigating risks, developing and implementing security strategies, and ensuring the confidentiality, integrity, and availability of organizational assets.
+<p> With a background in product/project management and corporate compliance, I bring a unique perspective to cybersecurity by combining my expertise in governance, risk management, and legal analysis with a passion for protecting organizations from evolving cyber threats. I specialize in identifying and mitigating risks, developing and implementing security strategies, and ensuring the confidentiality, integrity, and availability of organizational assets with the highest level of professionalism. </p>
 
-# In my previous roles, I have excelled in monitoring and analyzing security events using advanced tools such as SIEM, IDS/IPS, and EDR systems, responding to incidents, and creating actionable remediation plans. Additionally, I have contributed to the development of Standard Operating Procedures (SOPs) and compliance frameworks aligned with NIST SP 800-53, SOC, and ISO standards. My ability to bridge technical security measures with legal compliance has enabled me to address complex regulatory challenges and foster a culture of security awareness within organizations.
+# Skills
 
-# As I pursue a role in cybersecurity, I aim to leverage my skills to design and implement robust security operations, lead compliance initiatives, and collaborate with cross-functional teams to fortify organizations against cyber threats. My ultimate mission is to protect businesses, individuals, and critical assets while adhering to the highest ethical standards and legal requirements.
+<p> My soft skills include critical thinking and problem-solving, effective team collaboration and communication, adaptability, team psychology and empathy. These skills have allowed me successed in my previous roles as they allow me to analyze complex issues, clearly articulate findings to diverse audiences, and stay agile andflexible in teams and more importantly deliver business results.  
+
+Also, my technical skills include proficiency in incident response and forensics and expertise in SIEM tools like Splunk, enabling me to detect, analyze, and respond to threats efficiently.
+
+Not resting on my laurels, I am actively improving my competence in cloud security and vulnerability management, as well as expanding my knowledge in other areas like programming e.g. Python and SQL to stay ahead of emerging challenges in the field of cybersecurity. </p>
+
+
+<p> Finally, as I pursue a role in cybersecurity, I aim to leverage my skills to design and implement robust security operations, lead compliance initiatives, and collaborate with cross-functional teams to fortify organizations against cyber threats. My ultimate mission is to protect businesses, individuals, and critical assets while adhering to the highest ethical standards and legal requirements.</p>
 
 
