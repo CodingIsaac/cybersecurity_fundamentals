@@ -1,3 +1,7 @@
 div {
     text-align: justify;
 }
+body {
+    display: flex;
+    flex-direction: row;
+}
