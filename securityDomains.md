@@ -11,11 +11,11 @@
 <h1> 8 Security Domains, 8 Ways to Prevent Your Organization from Becoming the Next Headline</h1>
 <h2> Author: Isaac Ijuo</h2>
 <div class="securityContainer"> 
-<p>Imagine it’s a typical Monday morning at your company's headquarter. Your team is busy handling emails, preparing for meetings, and closing deals. Suddenly, chaos erupts. A senior executive receives an email from what looks like your CFO, urgently requesting a wire transfer. Believing it’s legitimate, they comply. Hours later, the truth sinks in—it was a sophisticated phishing attack, and the money is gone.
+<p>Imagine it’s a typical Monday morning at your company's just like every other Tech team, your team is busy handling emails, preparing for the usual monday meetings. Suddenly, chaos erupts, well cyber issues always happens suddenly. A senior executive receives an email from what looks like your CFO, urgently requesting a wire transfer. Believing the email to be legitimate, the senior executive complies. However, just 30 minutes later the truth sinks in it was a sophisticated phishing attack, and the money is gone.<br>
 
-Now the IT team scrambles to uncover the breach. The PR department fields calls from angry customers. The CEO is on damage control, explaining to stakeholders how this happened. This is no fictional nightmare—it’s a real-life scenario many organizations face because they didn’t address all aspects of their cybersecurity.
+The chaos continues on different levels from managing PR with customers, to damage control from the executive team, calls with the Bank and the story continues. The truth of the matter is, this doesn’t have to be your story. <br>
 
-The good news? This doesn’t have to be your story. By adopting the 8 Security Domains, you can prevent these scenarios and turn your organization into a fortress against even the most advanced threats. Each domain is a pillar of protection, ensuring your business stays secure, no matter the threat. Let’s dive into how these domains can keep you from becoming the next headline.</p>
+In this article, we will be highlighting the 8 Security Domains, to help protect your organization from cyber threats and equally use examples to draw connections why these domains are necessary and checks that should be put in place. Bear in mind that each domain is a pillar of protection, ensuring your business stays secure, no matter the threat. </p>
 </div>
     
 </body>
