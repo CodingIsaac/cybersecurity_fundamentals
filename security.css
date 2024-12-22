@@ -5,3 +5,12 @@ body {
     display: flex;
     flex-direction: row;
 }
+
+p {
+    text-align: justify;
+}
+
+h2 {
+    color: #242222;
+    font-size: 15px;
+}

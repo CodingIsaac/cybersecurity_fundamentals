@@ -53,7 +53,7 @@ are equipped to address modern cybersecurity challenges with both technical and 
 <h2> What are the 8 CISSP Security Domains?</h2>
 <img src="/Images/cisspsecurity.jpeg">
 <ol>
-<li>Security and Risk Management:</li>
+<li><h2>Security and Risk Management:</li></h2>
 <p>Generally, Security and Risk Management involves identifying,
 assessing, and mitigating risks while establishing governance, 
 policies, and compliance to ensure an organization operates 
@@ -72,7 +72,7 @@ failure to identify risks within its acquired systems.
 A proactive risk management strategy and BCP could have 
 mitigated the impact.
 </p>
-<li> Asset Security:
+<li> <h2>Asset Security:</h2>
 <p>Asset security focuses on data classification, handling, and protection. This ensures 
 that sensitive data are properly classified, stored, accessed, and transferred securely.
 <h3> Key Concepts:</h3>
@@ -87,6 +87,31 @@ user records stored on an unsecured server.
 Proper asset classification and encryption could have prevented 
 unauthorized access.</p>
 
+</li>
+<li> 
+<h2>Security Architecture and Engineering:</h2>
+<p> This domain involves designing and implementing secure physical and digital systems, including encryption, firewalls, and secure architecture frameworks.</p>
+<h3> Key Concepts:</h3>
+
+- Secure system design principles (e.g., Zero Trust architecture)
+- Cryptography and physical security
+- Security models (e.g., Bell-LaPadula and Clark-Wilson)
+<h3> Example: </h3>
+<p>The 2021 Florida water treatment plant attack occurred due to inadequate security engineering. Implementing network segmentation and secure architecture could have protected critical systems from unauthorized access.</p>
+</li>
+
+<li>
+<h2>Communication and Network Security:</h2>
+<p>Communication and Network Security ensures the secure transmission of data across networks by implementing protective measures such as encryption, firewalls, and intrusion detection systems to prevent unauthorized access and breaches.</p>
+
+<h3> Key Concepts:</h3>
+
+- Securing communication channels (e.g., VPN, encryption)
+- Network protocols and protection (e.g., firewalls, IDS/IPS)
+- Preventing network-based attacks
+
+<h3> Example:</h3>
+<p>In 2013, Target suffered a massive breach after attackers exploited a third-party vendor's network credentials. Network segmentation and better communication security protocols could have restricted access to critical systems.</p>
 </li>
 
 </ol>
