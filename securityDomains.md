@@ -105,6 +105,7 @@ Some of the Key concepts in Security Architecture and Engineering include:
 <p>Communication and Network Security ensures the secure transmission of data across networks by implementing protective measures such as encryption, firewalls, and intrusion detection systems to prevent unauthorized access and breaches.</p>
 
 <h3> Key Concepts:</h3>
+Some of the Key concepts in Communication and Network Security include:
 
 - Securing communication channels (e.g., VPN, encryption)
 - Network protocols and protection (e.g., firewalls, IDS/IPS)
@@ -117,8 +118,9 @@ Some of the Key concepts in Security Architecture and Engineering include:
 <img src="/Images/cisspdomains.jpeg">
 
 <li> <h2>Identity and Access Management (IAM)</h2>
-<p> The centra gist about Identity and Access Management (IAM) is that it ensures that the right individuals have access to the right resources, right level of access, at the right times, using measures such as authentication, authorization, and role-based controls to prevent unauthorized access.</p>
+<p> The central gist about Identity and Access Management (IAM) is that it ensures that the right individuals have access to the right resources, right level of access, at the right times, using measures such as authentication, authorization, and role-based controls to prevent unauthorized access.</p>
 <h3> Key Concepts:</h3>
+Some of the Key concepts in Identity and Access Management include:
 
 - Multi-factor authentication (MFA)
 - Role-based access control (RBAC)
@@ -133,6 +135,7 @@ Security Assessment and Testing involves evaluating an organization’s security
 </p>
 
 <h3> Key Concepts:</h3>
+Some of the Key concepts in Security Assessment and Testing include:
 
 - Vulnerability scanning and penetration testing
 - Auditing security systems and controls
@@ -146,6 +149,8 @@ Security Assessment and Testing involves evaluating an organization’s security
 Security Operations focuses on the continuous monitoring, detection, and response to cybersecurity threats. It involves incident management, threat intelligence, and leveraging tools like SIEM (Security Information and Event Management) to protect systems, ensure uptime, and minimize the impact of attacks. This proactive approach helps organizations stay resilient against ever-evolving threats.
 </p>
 <h3>Key Concepts:</h3>
+Some of the Key concepts in Security Operations include:
+
 
 - Incident response and management
 - Security monitoring through tools like SIEM
@@ -157,6 +162,7 @@ Security Operations focuses on the continuous monitoring, detection, and respons
 <li><h2>Software Development Security</h2>
 <p>Software Development Security ensures that security is integrated throughout the software development lifecycle (SDLC). It includes secure coding practices, vulnerability testing, and embedding security controls into DevOps (DevSecOps) pipelines to prevent exploitation of applications, protect sensitive data, and reduce risks from the ground up. </p>
 <h3>Key Concepts:</h3>
+Some of the Key concepts in Software Development Security include:
 
 - Secure coding practices
 - Testing for vulnerabilities during development
@@ -170,7 +176,7 @@ Security Operations focuses on the continuous monitoring, detection, and respons
 
 <h2>Conclusion</h2>
 <p>
-Each of the 8 CISSP Security Domains represents a vital layer of protection, ensuring a comprehensive and structured approach to cybersecurity. Real-life examples underscore the risks of neglecting these domains and the significant benefits of integrating them into organizational practices. By addressing these domains, businesses can build resilience, safeguard critical assets, and confidently navigate an ever-evolving threat landscape.
+Each of the 8 CISSP Security Domains represents a vital layer of protection, ensuring a comprehensive and structured approach to cybersecurity. And it is interesting how interwoven they are to each other. By addressing these domains, businesses can safeguard critical assets, ensure proper asset classification and having the right person with the right access.
 </p>
 </body>
 </html>
