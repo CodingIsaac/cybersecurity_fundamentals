@@ -24,7 +24,7 @@ The truth of matter is, cyber hacks unprecedented chaos, threatening the company
 should always prepare and do all it takes to prevent it. <br>
 
 In this article, we will answer key questions to help understand the CISSP (Certified Information Systems Security Professional) framework: 
-Who is CISSP? What are the eight CISSP Security Domains? And most importantly, how do these domains create tangible value for businesses in their fight against cyber threats?
+What is CISSP? What are the eight CISSP Security Domains? And most importantly, how do these domains create tangible value for businesses in their fight against cyber threats?
 
 We will highlight each of the eight CISSP Security Domains and demonstrate how they act as core pillars of protection, 
 ensuring your organization stays resilient no matter the threat. Using real-life examples, we will draw connections between 
@@ -113,8 +113,64 @@ unauthorized access.</p>
 <h3> Example:</h3>
 <p>In 2013, Target suffered a massive breach after attackers exploited a third-party vendor's network credentials. Network segmentation and better communication security protocols could have restricted access to critical systems.</p>
 </li>
+<br>
+<img src="/Images/cisspdomains.jpeg">
+
+<li> <h2>Identity and Access Management (IAM)</h2>
+<p> The centra gist about Identity and Access Management (IAM) is that it ensures that the right individuals have access to the right resources, right level of access, at the right times, using measures such as authentication, authorization, and role-based controls to prevent unauthorized access.</p>
+<h3> Key Concepts:</h3>
+
+- Multi-factor authentication (MFA)
+- Role-based access control (RBAC)
+- Identity governance and provisioning
+<h3>Example:</h3> 
+<p>The Colonial Pipeline ransomware attack in 2021 was caused by a single compromised password with no MFA in place. Implementing robust IAM policies would have prevented the unauthorized access that led to the breach. And apart from this IAM sits at the corner piece of all attacks, too much access with eventually lead to privilege escalations.</p>
+</li>
+
+<li><h2>Security Assessment and Testing:</h2>
+<p> 
+Security Assessment and Testing involves evaluating an organization’s security measures through methods like vulnerability scans, penetration testing, and audits. These activities identify weaknesses, ensure controls are effective, and provide insights to strengthen defenses against potential threats. Regular testing is critical for maintaining robust security postures.
+</p>
+
+<h3> Key Concepts:</h3>
+
+- Vulnerability scanning and penetration testing
+- Auditing security systems and controls
+- Continuous monitoring and risk assessments
+<h3>Example:</h3>
+<p>Equifax's 2017 breach exposing 147 million records occurred due to an unpatched vulnerability in their systems. Regular security assessments and timely patch management could have averted this disaster.</p>
+</li>
+
+<li> <h2>Security Operations:</h2>
+<p> 
+Security Operations focuses on the continuous monitoring, detection, and response to cybersecurity threats. It involves incident management, threat intelligence, and leveraging tools like SIEM (Security Information and Event Management) to protect systems, ensure uptime, and minimize the impact of attacks. This proactive approach helps organizations stay resilient against ever-evolving threats.
+</p>
+<h3>Key Concepts:</h3>
+
+- Incident response and management
+- Security monitoring through tools like SIEM
+- Threat intelligence and proactive threat hunting
+<h3>Example:</h3> 
+<p>A large financial institution successfully thwarted a DDoS attack by leveraging its Security Operations Center (SOC) and real-time threat monitoring tools to identify and neutralize the threat before it caused damage.</p>
+
+</li>
+<li><h2>Software Development Security</h2>
+<p>Software Development Security ensures that security is integrated throughout the software development lifecycle (SDLC). It includes secure coding practices, vulnerability testing, and embedding security controls into DevOps (DevSecOps) pipelines to prevent exploitation of applications, protect sensitive data, and reduce risks from the ground up. </p>
+<h3>Key Concepts:</h3>
+
+- Secure coding practices
+- Testing for vulnerabilities during development
+- Integration of security into DevOps pipelines (DevSecOps)
+<h3>Example:</h3> 
+<p>In 2021, a popular mobile app suffered a data breach due to poor coding practices that left user data exposed. Incorporating secure software development practices and regular code reviews could have prevented the breach, and this happens frequently for a lot of mobile apps.</p>
+
+</li>
 
 </ol>
 
+<h2>Conclusion</h2>
+<p>
+Each of the eight CISSP Security Domains represents a vital layer of protection, ensuring a comprehensive and structured approach to cybersecurity. Real-life examples underscore the risks of neglecting these domains and the significant benefits of integrating them into organizational practices. By addressing these domains, businesses can build resilience, safeguard critical assets, and confidently navigate an ever-evolving threat landscape.
+</p>
 </body>
 </html>
