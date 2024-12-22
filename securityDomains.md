@@ -36,7 +36,60 @@ fortifies your organization against cybercriminals’ most sophisticated tactics
 <br>
 
  </p>
-<h2> Who is CISSP </h2>   
+<h2> What is CISSP? </h2>   
 <img src="/Images/CISSP.jpeg"> 
+<br>
+<p>
+To help us understand fundamental concepts regarding CISSP, CISSP, or 
+Certified Information Systems Security Professional, 
+is a globally recognized certification for cybersecurity 
+professionals, administered by (ISC)². 
+It signifies expertise in managing and implementing effective security programs. 
+The certification is built around eight core security domains that collectively provide 
+a comprehensive framework for securing systems, data, and operations. 
+These domains form the foundation of the CISSP framework, ensuring professionals 
+are equipped to address modern cybersecurity challenges with both technical and managerial skills.
+</p>
+<h2> What are the 8 CISSP Security Domains?</h2>
+<img src="/Images/cisspsecurity.jpeg">
+<ol>
+<li>Security and Risk Management:</li>
+<p>Generally, Security and Risk Management involves identifying,
+assessing, and mitigating risks while establishing governance, 
+policies, and compliance to ensure an organization operates 
+securely and efficiently.</p>
+<h3> Key Concepts</h3>
+Some of the Key concepts in Security and Risk Management include:
+
+- Risk assessment and management
+- Compliance with laws, regulations, and ethics
+- Business continuity planning (BCP) and disaster recovery (DR)
+- Security policies and governance
+<h3>Example:</h3>
+<p>In 2018, Marriott International experienced a data breach 
+exposing 500 million records. The incident stemmed from weak governance and 
+failure to identify risks within its acquired systems. 
+A proactive risk management strategy and BCP could have 
+mitigated the impact.
+</p>
+<li> Asset Security:
+<p>Asset security focuses on data classification, handling, and protection. This ensures 
+that sensitive data are properly classified, stored, accessed, and transferred securely.
+<h3> Key Concepts:</h3>
+
+- Data classification and protection
+- Handling and securing sensitive information
+- Retention policies for data lifecycle management
+
+<h3>Example:</h3>
+<p>Facebook's 2019 data breach revealed 540 million unprotected 
+user records stored on an unsecured server. 
+Proper asset classification and encryption could have prevented 
+unauthorized access.</p>
+
+</li>
+
+</ol>
+
 </body>
 </html>
