@@ -24,12 +24,11 @@ The truth of matter is, cyber hacks unprecedented chaos, threatening the company
 should always prepare and do all it takes to prevent it. <br>
 
 In this article, we will answer key questions to help understand the CISSP (Certified Information Systems Security Professional) framework: 
-What is CISSP? What are the eight CISSP Security Domains? And most importantly, how do these domains create tangible value for businesses in their fight against cyber threats?
+What is CISSP? What are the 8 CISSP Security Domains? And most importantly, how do these domains can help businesses in their fight against cyber threats?
 
-We will highlight each of the eight CISSP Security Domains and demonstrate how they act as core pillars of protection, 
-ensuring your organization stays resilient no matter the threat. Using real-life examples, we will draw connections between 
-these domains and the chaos that can happen when they are neglected. You will also discover actionable checks to implement 
-within each domain, turning these theoretical concepts into practical safeguards.
+The article will highlight each of the eight CISSP Security Domains and demonstrate how they act as core pillars of protection, 
+ensuring your organization stays resilient no matter the threat. Using real-life examples, draw necessary connections between 
+these domains and the chaos that may occur when they are neglected.
 
 Kindly take note that these domains are more than just boxes to check—they form a comprehensive shield that 
 fortifies your organization against cybercriminals’ most sophisticated tactics. 
@@ -40,12 +39,12 @@ fortifies your organization against cybercriminals’ most sophisticated tactics
 <img src="/Images/CISSP.jpeg"> 
 <br>
 <p>
-To help us understand fundamental concepts regarding CISSP, CISSP, or 
+CISSP, or 
 Certified Information Systems Security Professional, 
 is a globally recognized certification for cybersecurity 
-professionals, administered by (ISC)². 
-It signifies expertise in managing and implementing effective security programs. 
-The certification is built around eight core security domains that collectively provide 
+professionals, administered by nformation System Security Certification Consortium, commonly known as (ISC)². 
+It signifies expertise in managing and implementing effective security frameworks for organizations. 
+Although it is a certification, and the certification is built around eight core security domains that collectively provide 
 a comprehensive framework for securing systems, data, and operations. 
 These domains form the foundation of the CISSP framework, ensuring professionals 
 are equipped to address modern cybersecurity challenges with both technical and managerial skills.
@@ -53,7 +52,7 @@ are equipped to address modern cybersecurity challenges with both technical and 
 <h2> What are the 8 CISSP Security Domains?</h2>
 <img src="/Images/cisspsecurity.jpeg">
 <ol>
-<li><h2>Security and Risk Management:</li></h2>
+<li><h2>Security and Risk Management:</h2></li>
 <p>Generally, Security and Risk Management involves identifying,
 assessing, and mitigating risks while establishing governance, 
 policies, and compliance to ensure an organization operates 
@@ -76,15 +75,15 @@ mitigated the impact.
 <p>Asset security focuses on data classification, handling, and protection. This ensures 
 that sensitive data are properly classified, stored, accessed, and transferred securely.
 <h3> Key Concepts:</h3>
+Some of the Key concepts in Asset Security include:
 
 - Data classification and protection
 - Handling and securing sensitive information
 - Retention policies for data lifecycle management
 
 <h3>Example:</h3>
-<p>Facebook's 2019 data breach revealed 540 million unprotected 
-user records stored on an unsecured server. 
-Proper asset classification and encryption could have prevented 
+<p>Sometime in 2019, Facebook had a breash and this breach revealed over 540 million unprotected 
+user records stored on an unsecured server. Proper asset classification and encryption could have prevented 
 unauthorized access.</p>
 
 </li>
@@ -92,6 +91,7 @@ unauthorized access.</p>
 <h2>Security Architecture and Engineering:</h2>
 <p> This domain involves designing and implementing secure physical and digital systems, including encryption, firewalls, and secure architecture frameworks.</p>
 <h3> Key Concepts:</h3>
+Some of the Key concepts in Security Architecture and Engineering include:
 
 - Secure system design principles (e.g., Zero Trust architecture)
 - Cryptography and physical security
@@ -170,7 +170,7 @@ Security Operations focuses on the continuous monitoring, detection, and respons
 
 <h2>Conclusion</h2>
 <p>
-Each of the eight CISSP Security Domains represents a vital layer of protection, ensuring a comprehensive and structured approach to cybersecurity. Real-life examples underscore the risks of neglecting these domains and the significant benefits of integrating them into organizational practices. By addressing these domains, businesses can build resilience, safeguard critical assets, and confidently navigate an ever-evolving threat landscape.
+Each of the 8 CISSP Security Domains represents a vital layer of protection, ensuring a comprehensive and structured approach to cybersecurity. Real-life examples underscore the risks of neglecting these domains and the significant benefits of integrating them into organizational practices. By addressing these domains, businesses can build resilience, safeguard critical assets, and confidently navigate an ever-evolving threat landscape.
 </p>
 </body>
 </html>
