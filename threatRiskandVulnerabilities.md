@@ -69,7 +69,7 @@ This will enable your employees to be prepared and knowledgable about cyber thre
 or time because equipped employees reduces the likelihood of 
 breaches caused by negligence, ensuring stronger and resilient
 organizational security.
-</li> <br>
+</li> <br><br>
 <img src="/Images/threat.jpeg">
 <li> <b>Establish a Patch Management Policy</b>
 <p> One of the most prevalent weaknesses that attackers exploit,
@@ -89,8 +89,23 @@ Reducing cybersecurity threats mostly depends on routinely
 upgrading and fixing systems. These techniques can help 
 companies to greatly lower vulnerabilities, stop attackers 
 from using weaknesses, and keep a strong and safe infrastructure.
+</li>
+<li> <b>Develop an Incident Response Plan</b>
+<p>There is no defense that is entirely infallible. When an incident takes place, the level of promptness and efficiency with which you respond can be the deciding factor in the outcome.
+</p>
+<b> Ways this can be done:</b><br>
 
+- Establish what each member of the response team is responsible for.
+- To facilitate speedy decision-making, establish clear protocols for when and how to escalate problems, as well as for communicating efficiently prior to, during, and after an incident.
+- Conduct frequent simulations and drills to test the plan.
+- Create an actionable plan to reduce the impact of and contain breaches.
+- To make the strategy better over time, write down what you learned after each test or actual incident.
 
+A well-practiced incident response plan helps keep threats 
+under control quickly and effectively, which limits the 
+damage. It keeps people's trust by showing that the organization is
+ready, and it guarantees a quick recovery, keeping operations running smoothly 
+and quickly getting things back to normal speedily.
 
 </li>
 </ol>
