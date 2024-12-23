@@ -56,7 +56,7 @@ remain one of the most exploited vulnerabilities in
 cybersecurity. More, than ever before it is necessary that Frequent Training
 employees to recognize and respond to threats is critical to safeguarding 
 your organization.</p>
-<b> Ways this can be done:</b>
+<b> Ways this can be done:</b><br>
 Organizations can train their employees by carrying out the following frequently:
 
 - Train employees to recognize phishing emails, social engineering tactics, and suspicious online behaviors.
@@ -65,14 +65,34 @@ Organizations can train their employees by carrying out the following frequently
 - Enforce secure password practices, like using unique and complex credentials and implement Data Loss Prevention APIs.
 - Also, simulate phishing attacks to test and improve awareness.
 
-This will enable your employees to be prepared and knowledgable about cyber threats. Do bear in mind that equipping your employees with knowledge and skills is never a waste of resources
+This will enable your employees to be prepared and knowledgable about cyber threats. Always remember that equipping your employees with knowledge and skills is never a waste of resources
 or time because equipped employees reduces the likelihood of 
 breaches caused by negligence, ensuring stronger and resilient
 organizational security.
+</li> <br>
+<img src="/Images/threat.jpeg">
+<li> <b>Establish a Patch Management Policy</b>
+<p> One of the most prevalent weaknesses that attackers exploit,
+according to experts in the field. One easy way to keep your 
+operating systems, apps, and softwares secure is to 
+update them regularly.</p>
+<b> Ways this can be done:</b><br>
+When organizations do the following, they can greatly improve their security:
+
+- Make sure that all important systems and applications are automatically updated. 
+- Find and fix security holes by conducting vulnerability assessments on a regular basis.
+- Enure you do not miss out on critical updates by keeping track of all the working systems and applications.
+- Verify the stability and compatibility of updates in a simulated environment before releasing them to the public.
+- Keep an eye on when security updates are provided by vendors so that newly found vulnerabilities can be addressed quickly.
+
+Reducing cybersecurity threats mostly depends on routinely 
+upgrading and fixing systems. These techniques can help 
+companies to greatly lower vulnerabilities, stop attackers 
+from using weaknesses, and keep a strong and safe infrastructure.
+
 
 
 </li>
-
 </ol>
 
 </body>
