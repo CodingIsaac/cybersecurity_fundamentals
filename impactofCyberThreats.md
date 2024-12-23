@@ -13,7 +13,7 @@
 <h2> Author: Isaac Ijuo</h2>
 <img src="/Images/imact-of-security-risk.jpeg"> <br>
 <p>
-Cyber threats, risks, and vulnerabilities have become significant issues that cut across countries and industries. These threats cause operationational disruption, vital data to be compromised, and reputations to be damaged, leaving organizations open to a series of negative outcomes.
+Cyber threats, risks, and vulnerabilities have become significant issues that cut across countries and industries. These threats cause operational disruption, vital data to be compromised, and reputations to be damaged, leaving organizations open to a series of negative outcomes.
 
 Stories of cyber threat or hacks are better heard rather than experienced, as any organization faced with significant disruptions can find itself pushed toward severe financial difficulties or even insolvency, depending on the severity if the breach.
 
