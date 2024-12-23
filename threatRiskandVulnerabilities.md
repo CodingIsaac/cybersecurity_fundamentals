@@ -106,9 +106,29 @@ under control quickly and effectively, which limits the
 damage. It keeps people's trust by showing that the organization is
 ready, and it guarantees a quick recovery, keeping operations running smoothly 
 and quickly getting things back to normal speedily.
+</li>
+<li><b> Invest in Advanced Security Tools</b>
+<p>Today's problems need today's solutions. More advanced security tools can help you find threats, stop them, and deal with them better.
+
+</p>
+<b> Ways this can be done:</b><br>
+Organizations can utilitze some of the following advanced tools to improve their security posture:
+
+- Intrusion detection systems and firewalls to watch and filter data packets and traffic
+- Activate Endpoint detection and response (EDR) which enables device-level monitoring in real-time.
+- Encryption Software to secure data transfer and storage with the use of encryption software.
+- Vulnerability Scanners that can find and fix bugs in software and computer systems.
+- Systems Information and event management (SIEM) tools for security purposes, which allow for the centralization of security data visibility and analysis.
+
+Threats can be found and stopped faster by technology-based 
+defenses than by humans, which makes it harder for attackers 
+to get in and makes security better.
 
 </li>
 </ol>
+<h2> Conclusion</h2>
+<p> 
+</p>
 
 </body>
 </html>
