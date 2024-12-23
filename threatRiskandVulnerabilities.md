@@ -127,7 +127,12 @@ to get in and makes security better.
 </li>
 </ol>
 <h2> Conclusion</h2>
-<p> 
+<p> Dealing with cyber threats, risks, and vulnerabilities is not 
+just about fixing issues as they come up; it is also about 
+making the setting safe on purpose. Your company can protect 
+its assets, keep customers' trust, and stay ahead in a digital
+world that is becoming more dangerous by using these five 
+proven strategies.
 </p>
 
 </body>
