@@ -54,4 +54,12 @@ intellectual capital are particularly vulnerable
 to this theft.</p>
 
 </li>
+<li><b>Identity Theft:</b>
+<p>Organizations must carefully manage sensitive data, 
+including personally identifiable information (PII). 
+When data breaches occur, PII may be sold or disclosed 
+on the dark web, exposing individuals and businesses to 
+additional hazards. So, protecting private information 
+is crucial to avoiding legal and financial consequences.</p>
+</li>
 </ol>
