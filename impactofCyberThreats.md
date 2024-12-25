@@ -21,9 +21,18 @@ This article examines seven detrimental impacts of cyber threats, risk and vulne
 
 Already interested in the conversation? Let us start right away.
 
-
-
-
-
-
 </p>
+<h2>Devastating Impacts of Threats, Risks, and Vulnerabilities</h2>
+<ol> 
+<li><b>Financial Impact</b>
+<p>Cyberattacks cause major financial losses by interfering 
+with services and manufacturing. Additional costs for 
+organizations include fines for non-compliance with rules 
+and the cost of remediation and recovery operations. 
+The difficulty of continuing operations might be made worse 
+by these financial repercussions, which can worsen, 
+particularly in delicate industries or during significant 
+breaches.
+
+</li>
+</ol>
