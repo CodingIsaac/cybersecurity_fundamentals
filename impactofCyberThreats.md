@@ -24,7 +24,7 @@ Already interested in the conversation? Let us start right away.
 </p>
 <h2>Devastating Impacts of Threats, Risks, and Vulnerabilities</h2>
 <ol> 
-<li><b>Financial Impact</b>
+<li><b>Financial Impact:</b>
 <p>Cyberattacks cause major financial losses by interfering 
 with services and manufacturing. Additional costs for 
 organizations include fines for non-compliance with rules 
@@ -33,6 +33,16 @@ The difficulty of continuing operations might be made worse
 by these financial repercussions, which can worsen, 
 particularly in delicate industries or during significant 
 breaches.
+
+</li>
+<li><b>Operational Disruption:</b>
+<p> Most time, critical corporate activities can be stopped 
+by cyberattacks, leading to service interruptions and 
+production delays. Revenue and productivity are hampered 
+by these disruptions because businesses find it difficult 
+to resume regular operations. Such disruptions may have 
+long-term repercussions that impact the general productivity 
+and profitability of the company.
 
 </li>
 </ol>
