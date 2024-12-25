@@ -45,4 +45,13 @@ long-term repercussions that impact the general productivity
 and profitability of the company.
 
 </li>
+<li><b>Intellectual Property Theft:</b>
+<p>Attackers frequently target confidential data, 
+including patents and trade secrets. Intellectual property 
+loss can hinder innovation and jeopardize the long-term 
+commercial plans of a firm. Industries that depend on 
+intellectual capital are particularly vulnerable 
+to this theft.</p>
+
+</li>
 </ol>
