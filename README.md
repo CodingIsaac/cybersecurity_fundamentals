@@ -11,6 +11,6 @@
 
 Not resting on my laurels, I am actively improving my competence in cloud security and vulnerability management, as well as expanding my knowledge in other areas like programming, e.g., Python and SQL, to stay ahead of emerging challenges in the field of cybersecurity. </p>
 
-<p> Finally, as I pursue a role in cybersecurity, I aim to leverage my skills to design and implement robust security operations, lead compliance initiatives, and collaborate with cross-functional teams to fortify organizations against cyber threats. I aim to protect businesses, individuals, and critical assets while adhering to the highest ethical standards and legal requirements./p>
+<p> Finally, as I pursue a role in cybersecurity, I aim to leverage my skills to design and implement robust security operations, lead compliance initiatives, and collaborate with cross-functional teams to fortify organizations against cyber threats. I aim to protect businesses, individuals, and critical assets while adhering to the highest ethical standards and legal requirements.</p>
 
 
