@@ -29,9 +29,22 @@ During reconnaissance, the attacker seeks to find out details using social engin
 <p> Using this style, threat actors collect information
  indirectly without interacting with the target system. Examples include using web archives, 
 public records, or online databases to retrieve outdated or 
-publicly accessible information.
+publicly accessible information.</p>
 
 <li><b>Active Reconnaissance:</b></li>
 
-The attacker directly interacts with the target system to gather data.
-Examples include sending requests to a web server to uncover version details or probing for vulnerabilities.
+<p>The attacker directly interacts with the target system to gather data.
+Examples include sending requests to a web server to uncover version details 
+or probing for vulnerabilities.</p>
+
+<h3><b>Activities Performed by the Adversary:</b></h3>
+<p>The attacker can gather information from a variety of 
+sources using a variety of approaches during the 
+"Reconnaissance" process. At this phase, the attacker can 
+perform the following operations:</p>
+
+- Identifying server and software versions.
+- Gathering open-source information about the organization.
+- Harvesting employee email addresses or personal data from social media.
+- Detecting internet-connected devices and their vulnerabilities.
+- Mapping IP address blocks and identifying vendor relationships.
