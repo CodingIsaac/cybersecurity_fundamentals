@@ -20,3 +20,18 @@ The seven Cyber Kill Chain steps are:
 <p>Reconnaissance is the initial phase of the Cyber Kill Chain, where attackers gather information about their target to better understand the attack surface. This step is crucial as it lays the groundwork for subsequent actions in the attack sequence.
 
 During reconnaissance, the attacker seeks to find out details using social engineering, phishing or whatever heps them find out about the target's systems, infrastructure, and personnel. The more information obtained, the more effectively the attacker can plan the attack.</p>
+
+<h3><b>Types of Reconnaissance:</b></h3>
+<p>The techniques employed at this stage may be divided into two subcategories:</p>
+<ol type="i">
+<li><b>Passive Reconnaissance:</b></li>
+
+<p> Using this style, threat actors collect information
+ indirectly without interacting with the target system. Examples include using web archives, 
+public records, or online databases to retrieve outdated or 
+publicly accessible information.
+
+<li><b>Active Reconnaissance:</b></li>
+
+The attacker directly interacts with the target system to gather data.
+Examples include sending requests to a web server to uncover version details or probing for vulnerabilities.
