@@ -48,3 +48,14 @@ perform the following operations:</p>
 - Harvesting employee email addresses or personal data from social media.
 - Detecting internet-connected devices and their vulnerabilities.
 - Mapping IP address blocks and identifying vendor relationships.
+
+<h3><b>Defensive Measures:</b></h3>
+<p>Organizations can mitigate the risk during this phase by 
+limiting the information available to potential attackers. 
+Defensive actions include:</p>
+
+- Conducting external penetration tests to identify information leaks.
+- Monitoring for organizational data breaches using threat intelligence tools.
+- Removing sensitive documents from public access.
+- Employing armor/firewalls and security solutions to protect internet-facing assets.
+- Promptly applying updates and patches to eliminate vulnerabilities.
