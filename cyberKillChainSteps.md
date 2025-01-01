@@ -60,7 +60,7 @@ Defensive actions include:</p>
 - Employing armor/firewalls and security solutions to protect internet-facing assets.
 - Promptly applying updates and patches to eliminate vulnerabilities.
 
-<img src="">
+<img src="/Images/cyberchains.jpeg">
 
 <h2> Step2: Weaponization</h2>
 <p>The Weaponization stage is the second critical step in the 
@@ -117,6 +117,8 @@ The choice of delivery method often hinges on the attack’s complexity, the lev
 - Ensure firewalls are effectively configured and actively managed.
 - Conduct detailed analyses of suspicious activities and trace the root causes.
 - Maintain a clear protocol for handling detected threats to minimize potential damage.</p>
+
+<img src="/Images/securenetwork.jpeg">
 
 <h2> Step 4: Exploitation</h2>
 <p>The Exploitation stage is the fourth critical step in the Cyber Kill Chain. This phase marks the activation of the malicious content delivered to the target in the previous step. The attacker attempts to exploit vulnerabilities in the victim’s system, executing malware or exploiting weaknesses in software, hardware, or operating systems. Success at this stage is a extremely necessary for advancing to the later phases of the attack. If the exploitation fails, the attacker’s entire operation is effectively thwarted, halting their progress.
@@ -184,6 +186,8 @@ By remaining private and invisible, attackers aim to extend their presence and o
 - The security team can use Cyber Threat Intelligence to identify and block C2 server IPs via security systems like firewalls.
 - Continuously monitor network traffic for signs of C2 communication, such as irregular patterns or connections to unknown domains.
 
+<img src="/Images/chainscyber.jpeg">
+
 <h2> Step 7: Actions on Objectives </h2>
 <p>The Actions on Objectives phase is the seventh and final step of the Cyber Kill Chain. At this stage, the attacker executes the ultimate goals of their operation, leveraging the groundwork laid during the previous phases. Each preceding step must have been successfully completed for the attacker to reach this point, allowing them to conduct malicious actions with precision and intent.</p>
 
@@ -211,6 +215,6 @@ At this stage, the attacker’s impact is most visible, and their ultimate objec
 Timely detection and intervention are vital at this stage to limit the attacker’s impact and secure the organization’s assets. </p>
 
 <h2> Conclusion</h2>
-<p>
+<p>The Cyber Kill Chain provides a structured way to understand and combat cyber attacks, breaking them down into distinct phases that attackers follow to achieve their objectives. By addressing each step proactively, defenders can disrupt an attack at any point, minimizing damage and safeguarding critical assets.</p>
 
 
