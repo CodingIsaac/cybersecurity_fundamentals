@@ -59,3 +59,34 @@ Defensive actions include:</p>
 - Removing sensitive documents from public access.
 - Employing armor/firewalls and security solutions to protect internet-facing assets.
 - Promptly applying updates and patches to eliminate vulnerabilities.
+
+<img src="">
+
+<h2> Step2: Weaponization</h2>
+<p>The Weaponization stage is the second critical step in the 
+Cyber Kill Chain. At this point, the attacker utilizes the 
+information gathered during the reconnaissance phase to craft 
+or acquire the tools necessary for the intended attack. 
+Whether leveraging existing tools or developing custom 
+exploits, the preparation at this stage is tailored to the 
+specific attack type. For instance, in a phishing attack, 
+the attacker might exploit a known vulnerability or create
+ malicious email content to deceive the target. 
+ Despite the intricate preparations, the victim often remains 
+ unaware of any malicious activity during this stage, 
+ as the attack has not yet been initiated.</p>
+
+ <h3><b>Activities of the Adversary:</b></h3>
+ <p>During the weaponization process, attackers work meticulously to build or refine their attack strategies. Common activities include:</p>
+
+- Crafting malware specific to the target system. For example in the Bangladesh $1 Billion attack.
+- Developing exploits to take advantage of identified vulnerabilities.
+- Designing malicious content for phishing attempts, such as a convincing email template or an infected attachment.
+- Selecting and configuring the most effective tools for the attack.
+
+<h3><b>Defensive Measures:</b></h3>
+<p>
+
+- Periodically scanning systems for known vulnerabilities to address weak points promptly.
+- Ensuring systems are updated with the latest security patches to close exploitable gaps.
+- Studying the behavior of newly developed or identified attack tools to prepare defenses and quickly detect their use.</p>
