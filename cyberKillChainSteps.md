@@ -184,5 +184,33 @@ By remaining private and invisible, attackers aim to extend their presence and o
 - The security team can use Cyber Threat Intelligence to identify and block C2 server IPs via security systems like firewalls.
 - Continuously monitor network traffic for signs of C2 communication, such as irregular patterns or connections to unknown domains.
 
+<h2> Step 7: Actions on Objectives </h2>
+<p>The Actions on Objectives phase is the seventh and final step of the Cyber Kill Chain. At this stage, the attacker executes the ultimate goals of their operation, leveraging the groundwork laid during the previous phases. Each preceding step must have been successfully completed for the attacker to reach this point, allowing them to conduct malicious actions with precision and intent.</p>
+
+<h3><b>Activities of the Adversary:</b></h3>
+<p>The attacker’s actions during this phase are guided by their motives, whether it’s financial gain, data theft, sabotage, or espionage. Typical activities include:
+
+- Encrypting files on the system using ransomware.
+- Exfiltrating sensitive information or documents.
+- Deleting or corrupting critical system data to cause damage.
+- Expanding the scope of the attack through privilege escalation or lateral movement to other network devices.
+- Harvesting credentials for further access.
+- Altering or manipulating data within the system.
+
+At this stage, the attacker’s impact is most visible, and their ultimate objectives come into sharp focus.</p>
+
+<h3><b>Defensive Measures:</b></h3>
+<p>Defenders must respond swiftly and decisively at this critical stage to mitigate damage and disrupt the attacker’s operations. Essential actions include:
+
+- Detect anomalies that may indicate exfiltration or unauthorized activity.
+- Limit and monitor access to critical files, folders, and databases to prevent unauthorized actions.
+- Deploy Data Loss Prevention (DLP) tools/API to block sensitive information from leaving the organization.
+- Regularly monitor user activities for unauthorized access or suspicious behavior.
+- Tighten controls on network access to external resources and scrutinize all outgoing traffic.
+
+Timely detection and intervention are vital at this stage to limit the attacker’s impact and secure the organization’s assets. </p>
+
+<h2> Conclusion</h2>
+<p>
 
 
