@@ -16,7 +16,7 @@ The seven Cyber Kill Chain steps are:
 <li>Actions on Objectives</li>
 </ol>
 
-<h2> Step 1: RECONNAISSANCE </h2>
+<h2> Step 1: Reconnaissance </h2>
 <p>Reconnaissance is the initial phase of the Cyber Kill Chain, where attackers gather information about their target to better understand the attack surface. This step is crucial as it lays the groundwork for subsequent actions in the attack sequence.
 
 During reconnaissance, the attacker seeks to find out details using social engineering, phishing or whatever heps them find out about the target's systems, infrastructure, and personnel. The more information obtained, the more effectively the attacker can plan the attack.</p>
@@ -91,7 +91,7 @@ the attacker might exploit a known vulnerability or create
 - Ensuring systems are updated with the latest security patches to close exploitable gaps.
 - Studying the behavior of newly developed or identified attack tools to prepare defenses and quickly detect their use.</p>
 
-<h2> Step 3:Delivery </h2>
+<h2> Step 3: Delivery </h2>
 <p>The Delivery phase is the third step in the Cyber Kill Chain. At this stage, the attacker initiates the cyber attack, executing the plans laid out in the preceding phases. This step involves the first direct interaction with the victim systems, as malicious content or tools are delivered to the target environment. For example, malware might be hosted on a server, and the victim unknowingly downloads it onto their system. The delivery methods can vary widely based on the nature of the attack, ranging from email-based phishing to more sophisticated tactics like direct server uploads. Or even a system hyjacking like the Bangladesh heist.</p>
 
 <h3><b>Activities of the Adversary:</b></h3>
@@ -167,3 +167,22 @@ By remaining private and invisible, attackers aim to extend their presence and o
 - Allow admin privileges only when absolutely necessary, enforcing strict access controls.
 - Identify and block unauthorized processes or unsigned executables.
 - Investigate unusual system activities and determine their root cause </p>
+
+<h2> Step 6: Command and Control (C2)</h2>
+<p>The Command and Control (C2) stage is the sixth step in the Cyber Kill Chain. At this point, the attacker has established a communication channel between the compromised system and a remote C2 server. This connection enables the attacker to send commands to the target system, laying the groundwork for executing their malicious objectives in subsequent stages.</p>
+
+<h3><b>Activities of the Adversary:</b></h3>
+<p>In this phase, the attacker focuses on enabling and maintaining communication with the C2 server. Actions include:</p>
+
+- Configuring the C2 server to interact with the victim’s system.
+- Modifying the victim’s device to ensure successful communication with the C2 infrastructure.
+
+<h3><b>Defensive Measures:</b></h3>
+<p>While direct actions to stop C2 communication at this stage can be challenging, Blueteams can adopt proactive monitoring and detection practices to mitigate the risk. Key strategies include:</p>
+
+- Scan systems for known C2 tools and suspicious software and identify the vulnerabilities.
+- The security team can use Cyber Threat Intelligence to identify and block C2 server IPs via security systems like firewalls.
+- Continuously monitor network traffic for signs of C2 communication, such as irregular patterns or connections to unknown domains.
+
+
+
