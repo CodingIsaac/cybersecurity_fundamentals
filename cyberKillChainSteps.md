@@ -90,3 +90,30 @@ the attacker might exploit a known vulnerability or create
 - Periodically scanning systems for known vulnerabilities to address weak points promptly.
 - Ensuring systems are updated with the latest security patches to close exploitable gaps.
 - Studying the behavior of newly developed or identified attack tools to prepare defenses and quickly detect their use.</p>
+
+<h2> Step 3:Delivery </h2>
+<p>The Delivery phase is the third step in the Cyber Kill Chain. At this stage, the attacker initiates the cyber attack, executing the plans laid out in the preceding phases. This step involves the first direct interaction with the victim systems, as malicious content or tools are delivered to the target environment. For example, malware might be hosted on a server, and the victim unknowingly downloads it onto their system. The delivery methods can vary widely based on the nature of the attack, ranging from email-based phishing to more sophisticated tactics like direct server uploads. Or even a system hyjacking like the Bangladesh heist.</p>
+
+<h3><b>Activities of the Adversary:</b></h3>
+<p> In this stage, attackers employ diverse strategies to deliver their payload to the victim. Common tactics include:
+
+- Embedding a malicious URL in an email and enticing the victim to click it.
+- Sending malware as a file attachment in an email.
+- Hosting malware on a website and tricking the victim into downloading it.
+- Distributing malicious links or files through social media platforms.
+- Directly uploading malware to a target server, if the server is accessible.
+- Physically planting malware using a USB device or similar tools at the work premises using trailing or other techniques.
+
+The choice of delivery method often hinges on the attack’s complexity, the level of access already achieved, and the attacker’s understanding of the victim’s behavior and systems.</p>
+
+<h3><b>Defensive Measures:</b></h3>
+<p>Organizations and individuals can adopt these strategies:
+
+- Encourage users to critically evaluate URLs in emails and test them in sandbox environments before clicking.
+- Utilize robust antivirus tools to scan email attachments for malicious content.
+- Implement advanced email security systems to filter potential threats.
+- Provide regular information security training to employees to raise awareness of common delivery tactics like phishing.
+- Continuously monitor server access logs for unusual activity.
+- Ensure firewalls are effectively configured and actively managed.
+- Conduct detailed analyses of suspicious activities and trace the root causes.
+- Maintain a clear protocol for handling detected threats to minimize potential damage.</p>
