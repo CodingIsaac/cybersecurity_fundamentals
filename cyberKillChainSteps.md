@@ -139,7 +139,31 @@ Often, the attacker’s success depends heavily on the precision and compatibili
 - Employ monitoring systems to detect unusual activity or anomalies in real time.
 - Track and address known vulnerabilities by implementing monitoring rules and patching systems as updates become available.
 - Utilize Endpoint Detection and Response (EDR) solutions to monitor and respond to endpoint activity.
-- Provide software developers with secure coding training to minimize vulnerabilities in custom applications.
+- Provide software developers with secure practices and coding training to minimize vulnerabilities in applications.
 - Conduct frequent penetration tests to identify weaknesses and assess the effectiveness of current defenses.
 - Use automated tools to regularly scan for vulnerabilities and review reports for security insights.
 - Enforce strict access controls, granting each account only the minimum privileges necessary for their role.
+
+<h2>Step 5: Installation </h2>
+<p>The Installation phase is the fifth step in the Cyber Kill Chain. At this stage, the attacker aims to secure persistent access to the compromised system by installing backdoors, malware, or other tools. Recognizing that the exploited vulnerability may eventually be patched, the attacker establishes alternate methods to maintain control, such as leveraging privilege escalation to access high-level user accounts. This step is critical in preparing the groundwork for achieving the attacker’s ultimate objectives.</p>
+
+<h3><b>Activities of the Adversary:</b></h3>
+<p>In the Installation phase, attackers focus on actions that ensure ongoing access while minimizing detection. Common activities include:
+
+- Installing malware or backdoors on the victim’s device.
+- Placing web shells on compromised servers.
+- Adding services, firewall rules, or scheduled tasks to sustain persistence.
+- Executing privilege escalation techniques to gain higher levels of system access.
+
+By remaining private and invisible, attackers aim to extend their presence and operate without interruption, positioning themselves for later stages of the attack.</p>
+
+<h3><b>Defensive Measures:</b></h3>
+<p>At this stage, Blueteams must shift to a Threat Hunting mindset, assuming attackers are already present and actively working within the system. Effective defensive strategies include:
+
+- Continuously monitor all organizational assets for suspicious activity.
+- Track configuration changes and detect anomalies on endpoints.
+- Have setups that ensure certain data are stored offline.
+- Limit access to critical files and paths, monitoring for unauthorized access attempts.
+- Allow admin privileges only when absolutely necessary, enforcing strict access controls.
+- Identify and block unauthorized processes or unsigned executables.
+- Investigate unusual system activities and determine their root cause </p>
