@@ -1,4 +1,4 @@
-<h1>Cyber Kill Chain Steps</h1>
+<h1>7 Cyber Kill Chain Steps</h1>
 <h2> Author: Isaac Ijuo </h2>
 <p>The Cyber Kill Chain is a framework that outlines the steps adversaries typically follow to execute a successful cyber attack. It was developed by Lockheed Martin, this model breaks down the attack process into seven distinct phases, each representing a critical stage in the lifecycle of a cyber intrusion.
 
