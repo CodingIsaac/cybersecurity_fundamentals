@@ -20,6 +20,7 @@ Majorly, the framework is divided into two primary components:
 
 - Techniques: The specific methods attackers use to achieve their tactical objectives, like phishing, malware deployment, Ransomeware or credential dumping.
 
+<h2>Key Tactics in the Framework</h2>
 
 </body>
 </html>
