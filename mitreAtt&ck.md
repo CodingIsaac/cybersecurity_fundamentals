@@ -21,10 +21,32 @@ Majorly, the framework is divided into two primary components:
 - Techniques: The specific methods attackers use to achieve their tactical objectives, like phishing, malware deployment, Ransomeware or credential dumping.
 
 <h2>Key Tactics in the Framework</h2>
-<p>The MITRE ATT&CK framework provides comprehensive matrices for different environments, detailing adversary tactics and techniques. Below is a summary of the tactics for Enterprise, Mobile, and Industrial Control Systems (ICS):</p>
+<p>The MITRE ATT&CK framework provides comprehensive matrices for different environments, detailing adversary tactics and techniques. </p>
+
+Tactics: These represent the adversary's tactical objectives during an attack, essentially answering the question of "why" a technique or sub-technique is performed. For example, an adversary may aim to achieve credential access. 
 
 
+Techniques: These describe "how" adversaries achieve their tactical goals by performing specific actions. For instance, an adversary may dump credentials to gain access. 
+MITRE ATT&CK
 
+Sub-Techniques: These provide more granular details on how a particular technique can be executed, offering deeper insights into adversary behaviors.
+
+Procedures: These are the specific implementations of techniques or sub-techniques, detailing the exact methods adversaries use in real-world scenarios.
+
+Data Sources and Components: <p>Data sources represent various subjects or topics of information that can be collected by sensors or logs, while data components identify specific properties or values of a data source relevant to detecting a given ATT&CK technique or sub-technique. </p>
+
+<h2>Divisions within the MITRE ATT&CK Framework:</h2>
+
+The framework is organized into several matrices, each tailored to different operational environments:
+
+Enterprise: This matrix covers adversary behaviors against enterprise IT networks and cloud environments. It encompasses a wide range of platforms, including Windows, macOS, Linux, Office Suite, Identity Provider, SaaS, IaaS, Network, and Containers. 
+
+
+Mobile: Focused on adversary behaviors targeting mobile devices, this matrix includes techniques involving device access and network-based effects that can be used by adversaries without direct device access. It covers platforms such as Android and iOS. 
+
+Industrial Control Systems (ICS): This matrix addresses adversary behaviors targeting industrial control systems, which are crucial for the operation of critical infrastructure. It includes tactics and techniques relevant to ICS environments. 
+
+Below is a summary of the tactics for Enterprise, Mobile, and Industrial Control Systems (ICS):
 <h2>Enterprise Tactics</h2>
 <table>
     <thead>
