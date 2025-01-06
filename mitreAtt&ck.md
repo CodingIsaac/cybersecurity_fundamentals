@@ -272,6 +272,7 @@ Below is a summary of the tactics for Enterprise, Mobile, and Industrial Control
     <td>Impact</td>
     <td>The adversary is trying to manipulate, interrupt, or destroy your ICS systems and data.</td>
 </tr>
+</table>
 
 <h2> Conclusion </h2>
 
