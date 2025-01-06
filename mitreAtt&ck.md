@@ -21,15 +21,10 @@ Majorly, the framework is divided into two primary components:
 - Techniques: The specific methods attackers use to achieve their tactical objectives, like phishing, malware deployment, Ransomeware or credential dumping.
 
 <h2>Key Tactics in the Framework</h2>
-<p>Each tactic represents a stage in the attack lifecycle, offering insights into how adversaries operate. Some of the critical tactics include:
+<p>The MITRE ATT&CK framework provides comprehensive matrices for different environments, detailing adversary tactics and techniques. Below is a summary of the tactics for Enterprise, Mobile, and Industrial Control Systems (ICS):</p>
 
-Reconnaissance: Gathering information about a target, such as IP addresses and employee details.
-Persistence: Maintaining access through backdoors or rootkits.
-Privilege Escalation: Gaining higher privileges to access critical resources.
-Lateral Movement: Expanding access across a network using compromised credentials.
-Impact: The ultimate damage caused, including data theft, system sabotage, or financial loss.
 
-<p> Key Tactics </p>
+
 <h2>Enterprise Tactics</h2>
 <table>
     <thead>
