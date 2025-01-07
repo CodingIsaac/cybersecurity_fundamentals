@@ -32,22 +32,20 @@
     <p>The financial stature of an organization will really determine if it can be implemented. Because in most circumstance, smaller organizations may lack the financial and technical resources necessary to integrate the framework effectively.</p>
 
 <h3>3. Integration with Existing Tools</h3>
-    <p>Mapping the framework to existing security tools and workflows can be time-consuming and require extensive customization.</p>
+    <p>To map the framework to existing security tools and workflows can be time-consuming and require extensive customization,and a depth of understanding in security.</p>
 
 <h3>4. Evolving Threats</h3>
-    <p>Cyber threats evolve rapidly, requiring continuous updates to the framework and associated practices.</p>
+    <p>No organizations wants to encounter a zero-day attack, but honestly, Cyber threats evolve rapidly, requiring continuous updates to the framework and associated practices.</p>
 
-<h3>5. Skilled Workforce Shortage</h3>
-    <p>The global shortage of skilled cybersecurity professionals complicates effective framework implementation.</p>
 
-<h3>6. Operationalizing the Framework</h3>
-    <p>Translating the framework’s data into actionable insights and workflows can be daunting without proper planning.</p>
+<h3>5. Operationalizing the Framework</h3>
+    <p>The tactics and techniques are all already complex, so, translating the framework’s data into actionable insights and workflows can be daunting without proper planning.</p>
 
-<h2>Solutions</h2>
+<h2>Possible Solutions in Adopting the MITRE ATT&CK framework</h2>
     <p>To address these challenges, organizations can adopt the following solutions:</p>
 
 <h3>1. Simplify the Approach</h3>
-    <p>Focus initially on the most relevant tactics and techniques based on the organization’s risk profile. Gradually expand usage as familiarity grows.</p>
+    <p>Focus initially on the most relevant tactics and techniques based on the organization’s security posture, then gradually expand usage as familiarity grows.</p>
 
 <h3>2. Leverage Free Tools</h3>
     <p>Utilize open-source tools like ATT&CK Navigator or Caldera to integrate the framework at minimal cost, making it accessible to smaller organizations.</p>
