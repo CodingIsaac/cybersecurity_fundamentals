@@ -26,10 +26,10 @@
     <p>Adopting the MITRE ATT&CK framework presents several key challenges:</p>
 
 <h3>1. Complexity and Scope</h3>
-    <p>The extensive repository of tactics, techniques, and sub-techniques can overwhelm organizations, particularly those with limited expertise.</p>
+    <p>The extensive repository of tactics, techniques, and sub-techniques can overwhelm organizations, particularly those with limited expertise, and resources. Daily new attack tactics and techniques are published and staying up to date with them, could be challenging.</p>
 
 <h3>2. Resource Constraints</h3>
-    <p>Smaller organizations may lack the financial and technical resources necessary to integrate the framework effectively.</p>
+    <p>The financial stature of an organization will really determine if it can be implemented. Because in most circumstance, smaller organizations may lack the financial and technical resources necessary to integrate the framework effectively.</p>
 
 <h3>3. Integration with Existing Tools</h3>
     <p>Mapping the framework to existing security tools and workflows can be time-consuming and require extensive customization.</p>
