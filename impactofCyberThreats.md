@@ -1,12 +1,21 @@
 <html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="Isaac Ijuo">
-    <meta name="7 Devastating Impacts of Cyber Threats, Risks, and Vulnerabilities on Businesses">
-    <meta name="Impacts of Cyber Threats, risks and Vulnerabilities.">
-    <meta name="Devastating effects of cyber threats on businesses">
+    
+    
+ <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Discover the 7 devastating impacts of cyber threats, risks, and vulnerabilities on businesses. Learn how to protect your organization from financial losses, identity theft, and reputational damage.">
+<meta name="keywords" content="cyber threats, cybersecurity, business security, data protection, financial impact, identity theft, reputation damage, operational disruption, intellectual property theft">
+<meta name="author" content="Isaac Ijuo">
+<meta property="og:title" content="7 Devastating Impacts of Cyber Threats on Businesses">
+<meta property="og:description" content="Explore the significant impacts of cyber threats on businesses and how to mitigate them effectively.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://github.com/CodingIsaac/cybersecurity_fundamentals/blob/main/impactofCyberThreats.md">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="7 Devastating Impacts of Cyber Threats on Businesses">
+
+
 </head>
 <body>
 <h1>7 Devastating Impacts of Cyber Threats, Risks, and Vulnerabilities on Businesses</h1>
