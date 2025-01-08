@@ -31,10 +31,11 @@ The MITRE ATT&CK Framework is a globally recognized knowledge base of adversary 
         Organizations can adopt the MITRE ATT&CK Framework by following these practical steps:
     </p>
 <ul>
-<li>Start small by identifying tactics and techniques most relevant to their industry and threat landscape.</li>
+<li>It is always best to start small by identifying tactics and techniques most relevant to their industry and threat landscape.</li>
  <li>Use tools like the <a href="https://github.com/mitre-attack/attack-navigator">ATT&CK Navigator</a> to visualize their current security posture and identify gaps.</li>
-<li>Incorporate the framework into their threat detection and response processes by mapping detected adversarial behaviors to ATT&CK techniques.</li>
-<li>Train staff on using ATT&CK to analyze incidents and prioritize defenses effectively.</li>
+<li>Gradually incorporate the framework into their threat detection and response processes by mapping detected adversarial behaviors to ATT&CK techniques.</li>
+
+<li>Also, it is neccesary to train organizational staff on using ATT&CK to analyze incidents and prioritize defenses effectively.</li>
 </ul>
 
 <h2>What are the benefits of using the MITRE ATT&CK Framework?</h2>
@@ -42,13 +43,13 @@ The MITRE ATT&CK Framework is a globally recognized knowledge base of adversary 
         The MITRE ATT&CK Framework offers several advantages:
     </p>
     <ul>
-        <li>Improved threat detection by understanding how adversaries behave.</li>
-        <li>Enhanced communication among teams using a common taxonomy of tactics and techniques.</li>
-        <li>Better prioritization of vulnerabilities based on real-world attacker methods.</li>
-        <li>Facilitation of red and blue team exercises to test and strengthen defenses.</li>
+        <li>Improved threat detection by understanding how adversaries think and behave.</li>
+        <li>It enhances communication among teams using a common taxonomy of tactics and techniques.</li>
+        <li>Creates a better prioritization of vulnerabilities based on real-world attacker methods, tactics and techniques.</li>
+        <li>It facilitates red and blue team exercises to test and strengthen defenses.</li>
     </ul>
 
-    <h2>How does the MITRE ATT&CK Framework compare to other cybersecurity models?</h2>
+<h2>How does the MITRE ATT&CK Framework compare to other cybersecurity models?</h2>
     <p>
         While models like the Lockheed Martin Cyber Kill Chain focus on the stages of an attack, the MITRE ATT&CK Framework goes deeper by detailing specific tactics and techniques used at each stage. This granular approach makes ATT&CK particularly effective for mapping real-world adversarial behavior and designing targeted defenses.
     </p>
