@@ -23,21 +23,21 @@ Let's get started.
 
 <h2>What is the MITRE ATT&CK Framework?</h2>
     <p>
-        The MITRE ATT&CK Framework is a globally recognized knowledge base of adversary tactics, techniques, and procedures (TTPs) derived from real-world observations. It helps organizations understand how attackers operate, enabling them to design effective defense strategies. Originally created for enterprise environments, the framework now covers multiple domains, including mobile and industrial control systems (ICS).
+The MITRE ATT&CK Framework is a globally recognized knowledge base of adversary tactics, techniques, and procedures (TTPs) which is derived from real-world security practices and observations. It helps organizations understand how attackers think, operate, which enables them to design effective defense strategies. Originally, the Mitre Att&ck framework was created for enterprise environments, the framework now covers multiple domains, including mobile and industrial control systems (ICS).
     </p>
 
-    <h2>How can organizations implement the MITRE ATT&CK Framework?</h2>
+<h2>How can organizations implement the MITRE ATT&CK Framework?</h2>
     <p>
         Organizations can adopt the MITRE ATT&CK Framework by following these practical steps:
     </p>
-    <ul>
-        <li>Start small by identifying tactics and techniques most relevant to their industry and threat landscape.</li>
-        <li>Use tools like the <a href="https://github.com/mitre-attack/attack-navigator">ATT&CK Navigator</a> to visualize their current security posture and identify gaps.</li>
-        <li>Incorporate the framework into their threat detection and response processes by mapping detected adversarial behaviors to ATT&CK techniques.</li>
-        <li>Train staff on using ATT&CK to analyze incidents and prioritize defenses effectively.</li>
-    </ul>
+<ul>
+<li>Start small by identifying tactics and techniques most relevant to their industry and threat landscape.</li>
+ <li>Use tools like the <a href="https://github.com/mitre-attack/attack-navigator">ATT&CK Navigator</a> to visualize their current security posture and identify gaps.</li>
+<li>Incorporate the framework into their threat detection and response processes by mapping detected adversarial behaviors to ATT&CK techniques.</li>
+<li>Train staff on using ATT&CK to analyze incidents and prioritize defenses effectively.</li>
+</ul>
 
-    <h2>What are the benefits of using the MITRE ATT&CK Framework?</h2>
+<h2>What are the benefits of using the MITRE ATT&CK Framework?</h2>
     <p>
         The MITRE ATT&CK Framework offers several advantages:
     </p>
