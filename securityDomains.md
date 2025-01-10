@@ -12,7 +12,7 @@
 <h2> Author: Isaac Ijuo</h2>
 <img src="/Images/securitydomains.jpeg">
 
-<p>Imagine it’s a typical Monday morning at your company's just like every other Tech team, your team is busy handling emails, 
+<p>Imagine it is a typical Monday morning at your company's just like every other Tech team, your team is busy handling emails, 
 preparing for the usual monday meetings. Suddenly, chaos erupts, well cyber issues always happens suddenly. 
 A senior executive receives an email from what looks like your CFO, urgently requesting a wire transfer. 
 Believing the email to be legitimate, the senior executive complies. 
@@ -26,7 +26,7 @@ should always prepare and do all it takes to prevent it. <br>
 In this article, we will answer key questions to help understand the CISSP (Certified Information Systems Security Professional) framework: 
 What is CISSP? What are the 8 CISSP Security Domains? And most importantly, how do these domains can help businesses in their fight against cyber threats?
 
-The article will highlight each of the eight CISSP Security Domains and demonstrate how they act as core pillars of protection, 
+The article highlights the eight CISSP Security Domains and discusses how they act as core pillars of protection, 
 ensuring your organization stays resilient no matter the threat. Using real-life examples, draw necessary connections between 
 these domains and the chaos that may occur when they are neglected.
 
