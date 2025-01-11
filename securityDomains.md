@@ -107,9 +107,9 @@ Some of the Key concepts in Security Architecture and Engineering include:
 <h3> Key Concepts:</h3>
 Some of the Key concepts in Communication and Network Security include:
 
-- Securing communication channels (e.g., VPN, encryption)
+- Secure communication channels (e.g., VPN, encryption)
 - Network protocols and protection (e.g., firewalls, IDS/IPS)
-- Preventing network-based attacks
+- Prevent network-based attacks
 
 <h3> Example:</h3>
 <p>In 2013, Target suffered a massive breach after attackers exploited a third-party vendor's network credentials. Network segmentation and better communication security protocols could have restricted access to critical systems.</p>
