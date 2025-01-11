@@ -82,7 +82,7 @@ Some of the Key concepts in Asset Security include:
 - Retention policies for data lifecycle management
 
 <h3>Example:</h3>
-<p>Sometime in 2019, Facebook had a breash and this breach revealed over 540 million unprotected 
+<p>Sometime in 2019, Facebook had a breach and this breach revealed over 540 million unprotected 
 user records stored on an unsecured server. Proper asset classification and encryption could have prevented 
 unauthorized access.</p>
 
