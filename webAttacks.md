@@ -12,3 +12,5 @@
     
 </head>
 <h1>What Are Web Attacks?</h1>
+<h2> Author: Isaac Ijuo</h2>
+<p>A web attack refers to malicious targeting of web applications to exploit their vulnerabilities. These attacks aim to gain unauthorized access, steal sensitive data, manipulate system operations, or disrupt services.
