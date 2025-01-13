@@ -14,3 +14,5 @@
 <h1>What Are Web Attacks?</h1>
 <h2> Author: Isaac Ijuo</h2>
 <p>A web attack refers to malicious targeting of web applications to exploit their vulnerabilities. These attacks aim to gain unauthorized access, steal sensitive data, manipulate system operations, or disrupt services.
+
+Examples include SQL Injection, where attackers manipulate database queries; Cross-Site Scripting (XSS), which injects malicious scripts into web pages; and Command Injection, where attackers execute arbitrary commands on a server. Web attacks are a significant concern as web applications often handle sensitive user data and are accessible via the internet, making them a frequent target for cybercriminals.</p>
