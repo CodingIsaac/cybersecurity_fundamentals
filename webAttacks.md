@@ -31,3 +31,19 @@ Examples include SQL Injection, where attackers manipulate database queries; Cro
 <h3>HTTP Request Method: POST</h3>
 <p>The <strong>POST</strong> method submits data without including parameters in the request URL, making it preferable for transmitting sensitive information like login credentials.</p>
 </section>
+
+<section>
+<h2>Common Web Attack Techniques</h2>
+<h3>1. SQL Injection</h3>
+<p>SQL Injection manipulates database queries through malicious input, potentially exposing sensitive data.</p>
+
+<h3>2. Cross-Site Scripting (XSS)</h3>
+<p>XSS allows attackers to inject malicious scripts into web pages, executed by unsuspecting users’ browsers.</p>
+
+<h3>3. Command Injection</h3>
+<p>Command Injection enables attackers to execute arbitrary commands on the server, exploiting input vulnerabilities.</p>
+
+<h3>4. Insecure Direct Object References (IDOR)</h3>
+<p>IDOR vulnerabilities allow unauthorized access to resources by manipulating object references, such as user IDs.</p>
+</section>
+
