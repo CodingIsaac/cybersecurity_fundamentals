@@ -16,3 +16,18 @@
 <p>A web attack refers to malicious targeting of web applications to exploit their vulnerabilities. These attacks aim to gain unauthorized access, steal sensitive data, manipulate system operations, or disrupt services.
 
 Examples include SQL Injection, where attackers manipulate database queries; Cross-Site Scripting (XSS), which injects malicious scripts into web pages; and Command Injection, where attackers execute arbitrary commands on a server. Web attacks are a significant concern as web applications often handle sensitive user data and are accessible via the internet, making them a frequent target for cybercriminals.</p>
+
+<section>
+<h2>Key Components of HTTP in Web Security</h2>
+<h3>HTTP Request Header: User-Agent</h3>
+<p>The <strong>User-Agent</strong> header contains information about the browser and operating system making the request. This data can be used to optimize web content for the client but is also exploitable in certain attacks.</p>
+
+<h3>HTTP Request Header: Authorization and Cookie</h3>
+<p>The <strong>Authorization</strong> header often carries tokens used for authenticating sessions. Similarly, the <strong>Cookie</strong> header can contain session identifiers, which attackers might target through methods like session hijacking.</p>
+
+<h3>HTTP Response Status Code: 200</h3>
+<p>A <strong>200</strong> status code indicates that the HTTP request was successful, serving as a critical marker in understanding server-client communication.</p>
+
+<h3>HTTP Request Method: POST</h3>
+<p>The <strong>POST</strong> method submits data without including parameters in the request URL, making it preferable for transmitting sensitive information like login credentials.</p>
+</section>
