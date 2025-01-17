@@ -47,3 +47,15 @@ Examples include SQL Injection, where attackers manipulate database queries; Cro
 <p>IDOR vulnerabilities allow unauthorized access to resources by manipulating object references, such as user IDs.</p>
 </section>
 
+<section>
+<h2>Real-World Examples of Web Attacks</h2>
+<h3>1. Equifax Data Breach</h3>
+<p>A SQL Injection vulnerability led to the Equifax breach, exposing data of 147 million individuals.</p>
+
+<h3>2. Automotive Web Portal Hack</h3>
+<p>Exploiting API vulnerabilities in automotive portals enabled attackers to track and control vehicles remotely.</p>
+
+<h3>3. AWS Configuration Flaw</h3>
+<p>A misconfigured AWS load balancer exposed web applications to unauthorized access, emphasizing the importance of secure cloud configurations.</p>
+</section>
+
