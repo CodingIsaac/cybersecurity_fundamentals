@@ -10,6 +10,7 @@
 </head>
 <body>
 <h1>Roles in Defensive Security</h1>
+<h2> Author: Isaac Ijuo </h2>
 <p>Defensive security involves a multidisciplinary team of professionals who work together to prevent, detect, and respond to cyber threats. These roles are critical for maintaining a secure digital environment and ensuring the organization's resilience against attacks. Here’s a breakdown of key roles in defensive security:</p>
 
     
