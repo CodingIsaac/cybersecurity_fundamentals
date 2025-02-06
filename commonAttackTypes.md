@@ -33,14 +33,16 @@ Smishing:  Uses deceptive text messages to steal data or impersonate known conta
 
 <h2>Common Types of Malware:</h2>
 
+<ol>
+<li>Viruses:</li> Infect systems via malicious files or attachments, damaging or corrupting data.
 
-Viruses: Infect systems via malicious files or attachments, damaging or corrupting data.
+<li>Worms:</li> Self-replicating malware that spreads across networks, disrupting operations.
 
-Worms: Self-replicating malware that spreads across networks, disrupting operations.
+<li>Ransomware: </li>Encrypts data and demands payment for its release, causing financial and reputational harm.
 
-Ransomware: Encrypts data and demands payment for its release, causing financial and reputational harm.
+<li>Spyware:</li> Secretly gathers data, such as emails and location details, for exploitation.
 
-Spyware: Secretly gathers data, such as emails and location details, for exploitation.
+</ol>
 
 
 <h2>Effects:</h2> System damage, data theft, operational disruptions, financial losses, and compromised privacy. </p>
