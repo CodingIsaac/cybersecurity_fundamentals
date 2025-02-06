@@ -126,7 +126,7 @@ The choice of delivery method often hinges on the attack’s complexity, the lev
 This step represents a pivotal moment where the attacker transitions from preparation to action. The exploit serves as the gateway to deeper access, laying the foundation for subsequent malicious activities.</p>
 
 <h3><b>Activities of the Adversary:</b></h3>
-<p>At this stage, attackers utilize their understanding of the target's environment and execute their carefully crafted tools. Common adversary actions include:</p>
+<p>At this stage, the attacker utilizes their understanding of the target's environment and execute a carefully crafted tools. Common adversary actions include:</p>
 
 - Executing exploits targeting hardware vulnerabilities.
 - Exploiting software or operating system vulnerabilities.
