@@ -40,7 +40,7 @@ Smishing:  Uses deceptive text messages to steal data or impersonate known conta
 
 <li>Ransomware: </li> Ransomeware encrypts data and demands payment for its release, causing financial and reputational harm.
 
-<li>Spyware:</li> Secretly gathers data, such as emails and location details, for exploitation.
+<li>Spyware:</li> Spyware secretly gathers data, such as emails and location details, for exploitation.
 
 </ol>
 
