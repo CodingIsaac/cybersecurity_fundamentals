@@ -108,3 +108,16 @@
         <li>Experience with SOC tools like SIEM (Security Information and Event Management).</li>
         <li>Ability to manage team performance and escalate critical issues.</li>
     </ul>   
+<h2><b> Compliance and Risk Manager </b></h2>
+    <h3>Responsibilities:</h3>
+    <ul>
+        <li>Ensure adherence to legal, regulatory, and organizational security standards.</li>
+        <li>Conduct risk assessments and recommend mitigation strategies.</li>
+        <li>Develop and enforce security policies and compliance programs.</li>
+    </ul>
+    <h3>Skills:</h3>
+    <ul>
+        <li>Knowledge of standards like ISO 27001, GDPR, and PCI DSS.</li>
+        <li>Proficiency in risk management frameworks.</li>
+        <li>Strong communication skills to work with various departments.</li>
+    </ul>
