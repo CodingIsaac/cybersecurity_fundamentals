@@ -54,5 +54,18 @@
         <li>Analytical skills to correlate data and identify patterns.</li>
         <li>Knowledge of cyber threat frameworks like MITRE ATT&CK.</li>
     </ul>
+    <h2><b>Incident Responder</b></h2>
+    <h3>Responsibilities:</h3>
+    <ul>
+        <li>Lead the response to cyber incidents, such as breaches or malware infections.</li>
+        <li>Contain and eradicate threats while minimizing damage.</li>
+        <li>Coordinate recovery efforts and ensure business continuity.</li>
+    </ul>
+    <h3>Skills:</h3>
+    <ul>
+        <li>Expertise in forensic tools and techniques.</li>
+        <li>Experience with incident response frameworks (e.g., NIST, SANS).</li>
+        <li>Strong communication skills to coordinate with stakeholders.</li>
+    </ul>
 
     
