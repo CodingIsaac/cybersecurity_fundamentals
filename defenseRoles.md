@@ -41,4 +41,18 @@
         <li>Ability to implement encryption, VPNs, and other security protocols.</li>
     </ul>
 
+<h2><b> Threat Intelligence Analyst</b></h2>
+    <h3>Responsibilities:</h3>
+    <ul>
+        <li>Gather and analyze information about emerging threats and adversaries.</li>
+        <li>Develop threat profiles based on tactics, techniques, and procedures (TTPs).</li>
+        <li>Provide actionable insights to improve security posture.</li>
+    </ul>
+    <h3>Skills:</h3>
+    <ul>
+        <li>Expertise in open-source intelligence (OSINT) and dark web monitoring.</li>
+        <li>Analytical skills to correlate data and identify patterns.</li>
+        <li>Knowledge of cyber threat frameworks like MITRE ATT&CK.</li>
+    </ul>
+
     
