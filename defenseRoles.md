@@ -162,3 +162,8 @@
 <li>Knowledge of human factors in security.</li>
 <li>Creativity in designing engaging training materials.</li>
 </ul>
+
+<h2><b>Conclusion</b></h2>
+<p>The roles in defensive security are diverse, ranging from hands-on technical specialists to strategic leaders. Each role plays a vital part in protecting organizations from cyber threats. Whether monitoring networks, analyzing malware, or responding to incidents, professionals in defensive security ensure that organizations.</p>
+</body>
+</html>
