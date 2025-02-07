@@ -13,4 +13,18 @@
 <h2> Author: Isaac Ijuo </h2>
 <p>Defensive security involves a multidisciplinary team of professionals who work together to prevent, detect, and respond to cyber threats. These roles are critical for maintaining a secure digital environment and ensuring the organization's resilience against attacks. Here’s a breakdown of key roles in defensive security:</p>
 
+<h2><b>Security Analyst</b></h2>
+<h3>Responsibilities:</h3>
+<ul>
+ <li>Monitor systems and networks for suspicious activity.</li>
+<li>Analyze security logs and alerts to identify potential threats.</li>
+<li>Investigate and respond to security incidents.</li>
+</ul>
+<h3>Skills:</h3>
+<ul>
+<li>Knowledge of intrusion detection systems (IDS) and intrusion prevention systems (IPS).</li>
+<li>Proficiency in analyzing logs and network traffic.</li>
+ <li>Familiarity with scripting and automation tools.</li>
+    </ul>
+
     
