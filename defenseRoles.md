@@ -68,4 +68,18 @@
         <li>Strong communication skills to coordinate with stakeholders.</li>
     </ul>
 
+<h2><b> Digital Forensics Specialist </b></h2>
+    <h3>Responsibilities:</h3>
+    <ul>
+        <li>Investigate digital evidence to understand the nature and scope of an attack.</li>
+        <li>Analyze file systems, system memory, and logs for traces of malicious activity.</li>
+        <li>Support legal or compliance teams with evidence preservation.</li>
+    </ul>
+    <h3>Skills:</h3>
+    <ul>
+        <li>Proficiency in forensic tools like EnCase and FTK.</li>
+        <li>Knowledge of file systems, operating systems, and memory analysis.</li>
+        <li>Attention to detail and strong documentation skills.</li>
+    </ul>
+
     
