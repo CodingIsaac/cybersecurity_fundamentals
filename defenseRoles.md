@@ -82,4 +82,17 @@
         <li>Attention to detail and strong documentation skills.</li>
     </ul>
 
+<h2><b> Security Architect</b></h2>
+    <h3>Responsibilities:</h3>
+    <ul>
+        <li>Design the organization’s overall security strategy and architecture.</li>
+        <li>Assess and mitigate risks in existing systems and new implementations.</li>
+        <li>Develop policies and guidelines to ensure secure operations.</li>
+    </ul>
+    <h3>Skills:</h3>
+    <ul>
+        <li>Deep understanding of enterprise security frameworks (e.g., Zero Trust, NIST CSF).</li>
+        <li>Experience with risk assessment and mitigation strategies.</li>
+        <li>Leadership and project management skills.</li>
+    </ul>
     
