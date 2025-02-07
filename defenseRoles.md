@@ -135,3 +135,17 @@
 <li>Strong understanding of assembly language and reverse engineering.</li>
 <li>Knowledge of malware families and techniques.</li>
 </ul>
+
+<h2><b> Vulnerability Manager </b></h2>
+<h3>Responsibilities:</h3>
+<ul>
+<li>Identify and prioritize vulnerabilities in systems and applications.</li>
+<li>Work with teams to implement patches and mitigation measures.</li>
+<li>Conduct regular vulnerability scans and penetration tests.</li>
+</ul>
+<h3>Skills:</h3>
+<ul>
+<li>Experience with tools like Nessus, Qualys, or OpenVAS.</li>
+<li>Understanding of patch management processes.</li>
+<li>Ability to prioritize vulnerabilities based on risk and business impact.</li>
+</ul>
