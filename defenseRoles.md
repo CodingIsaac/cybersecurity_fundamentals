@@ -149,3 +149,16 @@
 <li>Understanding of patch management processes.</li>
 <li>Ability to prioritize vulnerabilities based on risk and business impact.</li>
 </ul>
+<h2><b> Cybersecurity Trainer </b></h2>
+<h3>Responsibilities:</h3>
+<ul>
+<li>Develop and deliver training programs to raise cybersecurity awareness.</li>
+<li>Simulate phishing and other social engineering attacks to educate users.</li>
+<li>Create guidelines and best practices for secure behavior.</li>
+</ul>
+<h3>Skills:</h3>
+<ul>
+<li>Strong communication and presentation skills.</li>
+<li>Knowledge of human factors in security.</li>
+<li>Creativity in designing engaging training materials.</li>
+</ul>
