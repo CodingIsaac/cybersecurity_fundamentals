@@ -29,95 +29,109 @@
 
 <h2><b>Security Engineer</b></h2>
     <h3>Responsibilities:</h3>
-    <ul>
-        <li>Design, implement, and maintain security measures and systems.</li>
-        <li>Configure and manage firewalls, antivirus, and other preventative tools.</li>
-        <li>Collaborate with IT teams to ensure secure infrastructure.</li>
-    </ul>
-    <h3>Skills:</h3>
-    <ul>
-        <li>Strong understanding of network and system architecture.</li>
-        <li>Expertise in configuring security devices.</li>
-        <li>Ability to implement encryption, VPNs, and other security protocols.</li>
-    </ul>
+<ul>
+ <li>Design, implement, and maintain security measures and systems.</li>
+ <li>Configure and manage firewalls, antivirus, and other preventative tools.</li>
+<li>Collaborate with IT teams to ensure secure infrastructure.</li>
+</ul>
+<h3>Skills:</h3>
+<ul>
+<li>Strong understanding of network and system architecture.</li>
+<li>Expertise in configuring security devices.</li>
+<li>Ability to implement encryption, VPNs, and other security protocols.</li>
+</ul>
 
 <h2><b> Threat Intelligence Analyst</b></h2>
-    <h3>Responsibilities:</h3>
-    <ul>
-        <li>Gather and analyze information about emerging threats and adversaries.</li>
-        <li>Develop threat profiles based on tactics, techniques, and procedures (TTPs).</li>
-        <li>Provide actionable insights to improve security posture.</li>
-    </ul>
-    <h3>Skills:</h3>
-    <ul>
-        <li>Expertise in open-source intelligence (OSINT) and dark web monitoring.</li>
-        <li>Analytical skills to correlate data and identify patterns.</li>
-        <li>Knowledge of cyber threat frameworks like MITRE ATT&CK.</li>
-    </ul>
-    <h2><b>Incident Responder</b></h2>
-    <h3>Responsibilities:</h3>
-    <ul>
-        <li>Lead the response to cyber incidents, such as breaches or malware infections.</li>
-        <li>Contain and eradicate threats while minimizing damage.</li>
-        <li>Coordinate recovery efforts and ensure business continuity.</li>
-    </ul>
-    <h3>Skills:</h3>
-    <ul>
-        <li>Expertise in forensic tools and techniques.</li>
-        <li>Experience with incident response frameworks (e.g., NIST, SANS).</li>
-        <li>Strong communication skills to coordinate with stakeholders.</li>
-    </ul>
+<h3>Responsibilities:</h3>
+<ul>
+<li>Gather and analyze information about emerging threats and adversaries.</li>
+<li>Develop threat profiles based on tactics, techniques, and procedures (TTPs).</li>
+<li>Provide actionable insights to improve security posture.</li>
+</ul>
+<h3>Skills:</h3>
+<ul>
+<li>Expertise in open-source intelligence (OSINT) and dark web monitoring.</li>
+<li>Analytical skills to correlate data and identify patterns.</li>
+<li>Knowledge of cyber threat frameworks like MITRE ATT&CK.</li>
+</ul>
+<h2><b>Incident Responder</b></h2>
+<h3>Responsibilities:</h3>
+<ul>
+<li>Lead the response to cyber incidents, such as breaches or malware infections.</li>
+<li>Contain and eradicate threats while minimizing damage.</li>
+<li>Coordinate recovery efforts and ensure business continuity.</li>
+</ul>
+<h3>Skills:</h3>
+<ul>
+<li>Expertise in forensic tools and techniques.</li>
+<li>Experience with incident response frameworks (e.g., NIST, SANS).</li>
+<li>Strong communication skills to coordinate with stakeholders.</li>
+</ul>
 
 <h2><b> Digital Forensics Specialist </b></h2>
-    <h3>Responsibilities:</h3>
-    <ul>
-        <li>Investigate digital evidence to understand the nature and scope of an attack.</li>
-        <li>Analyze file systems, system memory, and logs for traces of malicious activity.</li>
-        <li>Support legal or compliance teams with evidence preservation.</li>
-    </ul>
-    <h3>Skills:</h3>
-    <ul>
-        <li>Proficiency in forensic tools like EnCase and FTK.</li>
-        <li>Knowledge of file systems, operating systems, and memory analysis.</li>
-        <li>Attention to detail and strong documentation skills.</li>
-    </ul>
+<h3>Responsibilities:</h3>
+<ul>
+<li>Investigate digital evidence to understand the nature and scope of an attack.</li>
+<li>Analyze file systems, system memory, and logs for traces of malicious activity.</li>
+<li>Support legal or compliance teams with evidence preservation.</li>
+ </ul>
+<h3>Skills:</h3>
+<ul>
+<li>Proficiency in forensic tools like EnCase and FTK.</li>
+<li>Knowledge of file systems, operating systems, and memory analysis.</li>
+<li>Attention to detail and strong documentation skills.</li>
+</ul>
 
 <h2><b> Security Architect</b></h2>
-    <h3>Responsibilities:</h3>
-    <ul>
-        <li>Design the organization’s overall security strategy and architecture.</li>
-        <li>Assess and mitigate risks in existing systems and new implementations.</li>
-        <li>Develop policies and guidelines to ensure secure operations.</li>
+<h3>Responsibilities:</h3>
+<ul>
+<li>Design the organization’s overall security strategy and architecture.</li>
+<li>Assess and mitigate risks in existing systems and new implementations.</li>
+<li>Develop policies and guidelines to ensure secure operations.</li>
+</ul>
+<h3>Skills:</h3>
+<ul>
+<li>Deep understanding of enterprise security frameworks (e.g., Zero Trust, NIST CSF).</li>
+<li>Experience with risk assessment and mitigation strategies.</li>
+<li>Leadership and project management skills.</li>
+</ul>
+<h2><b> SOC Manager </b></h2>
+<h3>Responsibilities:</h3>
+<ul>
+<li>Oversee the operations of the Security Operations Center (SOC).</li>
+<li>Ensure effective coordination among analysts, engineers, and other security professionals.</li>
+<li>Maintain and improve SOC workflows, processes, and tools.</li>
     </ul>
-    <h3>Skills:</h3>
-    <ul>
-        <li>Deep understanding of enterprise security frameworks (e.g., Zero Trust, NIST CSF).</li>
-        <li>Experience with risk assessment and mitigation strategies.</li>
-        <li>Leadership and project management skills.</li>
-    </ul>
-  <h2><b> SOC Manager </b></h2>
-    <h3>Responsibilities:</h3>
-    <ul>
-        <li>Oversee the operations of the Security Operations Center (SOC).</li>
-        <li>Ensure effective coordination among analysts, engineers, and other security professionals.</li>
-        <li>Maintain and improve SOC workflows, processes, and tools.</li>
-    </ul>
-    <h3>Skills:</h3>
-    <ul>
-        <li>Strong leadership and organizational skills.</li>
-        <li>Experience with SOC tools like SIEM (Security Information and Event Management).</li>
-        <li>Ability to manage team performance and escalate critical issues.</li>
+<h3>Skills:</h3>
+<ul>
+<li>Strong leadership and organizational skills.</li>
+<li>Experience with SOC tools like SIEM (Security Information and Event Management).</li>
+<li>Ability to manage team performance and escalate critical issues.</li>
     </ul>   
 <h2><b> Compliance and Risk Manager </b></h2>
     <h3>Responsibilities:</h3>
-    <ul>
-        <li>Ensure adherence to legal, regulatory, and organizational security standards.</li>
-        <li>Conduct risk assessments and recommend mitigation strategies.</li>
-        <li>Develop and enforce security policies and compliance programs.</li>
-    </ul>
-    <h3>Skills:</h3>
-    <ul>
-        <li>Knowledge of standards like ISO 27001, GDPR, and PCI DSS.</li>
-        <li>Proficiency in risk management frameworks.</li>
-        <li>Strong communication skills to work with various departments.</li>
-    </ul>
+ <ul>
+<li>Ensure adherence to legal, regulatory, and organizational security standards.</li>
+ <li>Conduct risk assessments and recommend mitigation strategies.</li>
+<li>Develop and enforce security policies and compliance programs.</li>
+ </ul>
+<h3>Skills:</h3>
+ <ul>
+ <li>Knowledge of standards like ISO 27001, GDPR, and PCI DSS.</li>
+ <li>Proficiency in risk management frameworks.</li>
+ <li>Strong communication skills to work with various departments.</li>
+</ul>
+
+<h2><b> Malware Analyst </b></h2>
+<h3>Responsibilities:</h3>
+<ul>
+<li>Analyze malware samples to determine their behavior and intent.</li>
+<li>Reverse-engineer malicious code to identify vulnerabilities it exploits.</li>
+<li>Provide insights to improve detection and mitigation strategies.</li>
+</ul>
+<h3>Skills:</h3>
+<ul>
+<li>Expertise in tools like IDA Pro and Ghidra.</li>
+<li>Strong understanding of assembly language and reverse engineering.</li>
+<li>Knowledge of malware families and techniques.</li>
+</ul>
