@@ -25,6 +25,20 @@
 <li>Knowledge of intrusion detection systems (IDS) and intrusion prevention systems (IPS).</li>
 <li>Proficiency in analyzing logs and network traffic.</li>
  <li>Familiarity with scripting and automation tools.</li>
+</ul>
+
+<h2><b>Security Engineer</b></h2>
+    <h3>Responsibilities:</h3>
+    <ul>
+        <li>Design, implement, and maintain security measures and systems.</li>
+        <li>Configure and manage firewalls, antivirus, and other preventative tools.</li>
+        <li>Collaborate with IT teams to ensure secure infrastructure.</li>
+    </ul>
+    <h3>Skills:</h3>
+    <ul>
+        <li>Strong understanding of network and system architecture.</li>
+        <li>Expertise in configuring security devices.</li>
+        <li>Ability to implement encryption, VPNs, and other security protocols.</li>
     </ul>
 
     
