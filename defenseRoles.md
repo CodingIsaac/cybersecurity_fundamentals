@@ -95,4 +95,16 @@
         <li>Experience with risk assessment and mitigation strategies.</li>
         <li>Leadership and project management skills.</li>
     </ul>
-    
+  <h2><b> SOC Manager </b></h2>
+    <h3>Responsibilities:</h3>
+    <ul>
+        <li>Oversee the operations of the Security Operations Center (SOC).</li>
+        <li>Ensure effective coordination among analysts, engineers, and other security professionals.</li>
+        <li>Maintain and improve SOC workflows, processes, and tools.</li>
+    </ul>
+    <h3>Skills:</h3>
+    <ul>
+        <li>Strong leadership and organizational skills.</li>
+        <li>Experience with SOC tools like SIEM (Security Information and Event Management).</li>
+        <li>Ability to manage team performance and escalate critical issues.</li>
+    </ul>   
