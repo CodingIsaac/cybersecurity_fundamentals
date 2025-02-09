@@ -71,3 +71,13 @@ echo $dom->saveXML();
 <li><strong>Remote Code Execution (RCE)</strong>:In extreme cases, attackers can execute arbitrary code on the server.</li>
 </ul>
 </section>
+
+<section>
+<h2>Preventing XML External Entity Attacks</h2>
+<p>To mitigate XXE vulnerabilities, follow these best practices:</p>
+ <ul>
+     <li>Disable External Entities: <code>libxml_disable_entity_loader(true);</code></li>
+    <li>Use Secure Parsers: Ensure external entities are disabled by default.</li>
+    <li>Validate XML Input: Allow only expected content.</li>
+</ul>
+</section>
