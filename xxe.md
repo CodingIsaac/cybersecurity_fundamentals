@@ -22,3 +22,7 @@
 Often time, it uses tags to define the structure and content of the data, allowing for easy representation and exchange between systems. XML’s flexibility makes it powerful, but this same flexibility can also introduce vulnerabilities, which hackers could exploit.
 </p>
 </section>
+<section>
+<h2>Understanding XXE Vulnerabilities</h2>
+<p>An <strong>XXE vulnerability</strong> occurs when an application processes malicious XML input, allowing an attacker to exploit external entities defined in the XML. External entities can be used to access sensitive files, execute server-side request forgery (SSRF), or perform other malicious actions. This vulnerability is commonly found in applications that accept XML input without proper validation.</p>
+</section>
