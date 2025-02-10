@@ -16,4 +16,7 @@
 <h2>1. What is SQL Injection?</h2>
 <p>SQL Injection is a code injection technique where malicious SQL statements are inserted into an entry field for execution, allowing attackers to manipulate a database. This can result in unauthorized data access, data loss, or other severe security breaches.</p>
 <p class="source">Source: W3SCHOOLS.COM</p>
-    
+
+<h2>2. How do SQL Injection attacks work?</h2>
+<p>Attackers exploit vulnerabilities in an application's software by inserting malicious SQL code into user inputs (such as forms or URL parameters) that are not properly sanitized. This allows the attacker to manipulate database queries, potentially gaining unauthorized access to data or executing unintended commands.</p>
+<p class="source">Source: SENTINELONE</p>   
